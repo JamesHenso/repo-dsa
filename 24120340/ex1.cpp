@@ -14,6 +14,6 @@ int fibonacci(int n){
 
 int main(){
     int n; cin >> n; // Number to solve fibo
-    cout << fibonacci(n); // Find fibo
+    cout << fibonacci(n); // Find fibo f(n)
     return 0;
 }
