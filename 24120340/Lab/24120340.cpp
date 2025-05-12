@@ -49,8 +49,8 @@ string convert_postfix(const string &algo_str){
     stack<char> operators;
     string postfix;
     string number;
-    bool negative = false;           // đánh dấu số âm
-    bool expecting_operand = true;   // đang mong chờ số (hoặc dấu âm) chứ không phải toán tử
+    bool negative = false;         
+    bool expecting_operand = true;   
 
     for (char ch : algo_str){
         if (isspace(ch))continue;
