@@ -91,10 +91,8 @@ string convert_postfix(const string &algo_str){
                 operators.push(ch);
                 expecting_operand = true;
             }
-            else {
-                return "Error"
-                       + string(1, ch) + "'";
-            }
+            else return "Error";
+            
         }
     }
 
