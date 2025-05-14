@@ -49,30 +49,24 @@ string convert_postfix(const string &algo_str){
     stack<char> operators;
     string postfix;
     string number;
-    bool negative = false;         
-    bool expecting_operand = true;   
+    bool expecting_operand = true;
 
     for (char ch : algo_str){
-        if (isspace(ch))continue;
+        if (isspace(ch)) continue;
 
         if (isdigit(ch)){
-            if (negative){
-                number += '-';
-                negative = false;
-            }
             number += ch;
             expecting_operand = false;
         }
-        else
-        {
+        else {
             if (!number.empty()){
                 postfix += number + ' ';
                 number.clear();
             }
             if (ch == '-' && expecting_operand){
-                negative = true;
-                continue;
+                postfix += "0 ";
             }
+
             if (ch == '('){
                 operators.push(ch);
                 expecting_operand = true;
@@ -83,11 +77,10 @@ string convert_postfix(const string &algo_str){
                     postfix += ' ';
                     operators.pop();
                 }
-                if (!operators.empty()) operators.pop();
-                else return "Error";
+                if (operators.empty()) return "Error";
+                operators.pop();
                 expecting_operand = false;
             }
-
             else if (__precen.count(ch)){
                 while (!operators.empty() && operators.top() != '('
                        && precendence(operators.top()) >= precendence(ch)){
@@ -97,14 +90,20 @@ string convert_postfix(const string &algo_str){
                 }
                 operators.push(ch);
                 expecting_operand = true;
-            }else return "Error";
+            }
+            else {
+                return "Error"
+                       + string(1, ch) + "'";
+            }
         }
     }
 
-    if (!number.empty()) postfix += number + ' ';
-
+    if (!number.empty()){
+        postfix += number + ' ';
+    }
     while (!operators.empty()){
-        if (operators.top() == '(') return "Error";
+        if (operators.top() == '(') 
+            return "Error";
         postfix += operators.top();
         postfix += ' ';
         operators.pop();
@@ -112,6 +111,7 @@ string convert_postfix(const string &algo_str){
 
     return postfix;
 }
+
 
 //__________________________________________________________
 // Typedef for calculte function
@@ -243,25 +243,38 @@ string div_BigInt(const string &num1, const string &num2)
         return "Error";
     }
 
+    bool isNegative = (num1[0] == '-') ^ (num2[0] == '-');
+    string absNum1 = (num1[0] == '-') ? num1.substr(1) : num1;
+    string absNum2 = (num2[0] == '-') ? num2.substr(1) : num2;
+
+    absNum1 = __del_zero(absNum1);
+    absNum2 = __del_zero(absNum2);
+
+    if (absNum2 == "0") return "Error";
+    if (absNum1 == "0") return "0";
+    if (compare(absNum1, absNum2) < 0) return "0";
+
     string result = "";
     string curr = "";
 
-    for (char digit : num1){
+    for (char digit : absNum1){
         curr += digit;
 
         while (curr.length() > 1 && curr[0] == '0') curr.erase(0, 1);
 
         int count = 0;
 
-        while (compare(curr, num2) >= 0){
-            curr = sub_BigInt(curr, num2);
+        while (compare(curr, absNum2) >= 0){
+            curr = sub_BigInt(curr, absNum2);
             count++;
         }
 
         result += (count + '0');
     }
 
-    return __del_zero(result);
+    result = __del_zero(result);
+    if (isNegative && result != "0") result = "-" + result;
+    return result;
 }
 
 //__________________________________________________________
