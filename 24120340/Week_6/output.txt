@@ -1,0 +1,500 @@
+CONG TY TNHH BEE VIET NAM|0108927262|So 8 - K8, Khu nha o lien ke trung tam 75, Tong cuc II, Bo Quoc Phong, thon Lai Xa, Xa Kim Chung, Huyen Hoai Duc, Thanh pho Ha Noi
+CONG TY CO PHAN THUONG MAI CHAU DUC PHAT|3502406778|So 266 Ap Phuoc Trung, Xa Tam Phuoc, Huyen Long Dien, Tinh Ba Ria - Vung Tau
+CONG TY CO PHAN XAY DUNG DAU TU PHAT TRIEN DI SAN SAO VIET|0315938079|30/18 Truong Sa, Phuong 17, Quan Binh Thanh, Thanh pho Ho Chi Minh
+CONG TY TNHH MTV THAN TAN HOANG LONG|0315938103|2/47 Duong Thanh Loc 31, Khu Pho 3C, Phuong Thanh Loc, Quan 12, Thanh pho Ho Chi Minh
+CONG TY TNHH NONG NGHIEP CONG NGHE CAO MIEN DONG VIET|3401194911|Thon 5, Xa Tan Phuc, Huyen Ham Tan, Tinh Binh Thuan
+CONG TY TNHH XAY DUNG VINH GIA PHAT|3603671412|So 171, Xom 4, Khu 2, Ap Bau Ca, Xa Trung Hoa, Huyen Trang Bom, Tinh Dong Nai
+CONG TY TNHH THUONG MAI DICH VU PHU LONG RIVERSIDE|3401194929|243 Huynh Thuc Khang, KP1, Phuong Mui Ne, Thanh pho Phan Thiet, Tinh Binh Thuan
+CONG TY TNHH HANH TRANG PHAT|3603671155|To 5, Ap Thanh Binh, Xa Loc An, Huyen Long Thanh, Tinh Dong Nai
+CONG TY TNHH THUONG MAI DICH VU THIET BI M.K.K|0315932380|154/1/34 Cong Lo, Phuong 15, Quan Tan Binh, Thanh pho Ho Chi Minh
+CONG TY TNHH TM - DV - NHA HANG HAI SAN KY QUANG|0315933352|So 526 Duong Pham Van Dong, Phuong 13, Quan Binh Thanh, Thanh pho Ho Chi Minh
+CONG TY TNHH MTV KIM LONG|1201613551|So 170 Nguyen Minh Duong, Ap 1, Xa Dao Thanh, Thanh pho My Tho, Tinh Tien Giang
+CONG TY TNHH SONA AGENCY VIET NAM|0108926660|So 333 Bach Mai, Phuong Bach Mai, Quan Hai Ba Trung, Thanh pho Ha Noi
+CONG TY TNHH S.A GROUP|0315932944|15A/28B Le Thanh Ton, Phuong Ben Nghe, Quan 1, Thanh pho Ho Chi Minh
+CONG TY TNHH THUONG MAI DICH VU MY PHAM NGOC TRAM|0315935783|6 Binh Quoi, Phuong 27, Quan Binh Thanh, Thanh pho Ho Chi Minh
+CONG TY TNHH GIAO DUC BAO MINH CHAU|3603671469|To 8, Khu pho Phuoc Lai, Thi tran Hiep Phuoc, Huyen Nhon Trach, Tinh Dong Nai
+CONG TY CO PHAN KY THUAT PHONG SACH THANH TAM|0108912989|So nha LK10-TT2, khu nha o 96+ 96B Nguyen Huy Tuong, Phuong Thanh Xuan Trung, Quan Thanh Xuan, Thanh pho Ha Noi
+CONG TY TNHH THUONG MAI & DICH VU TUAN VAN PHAT|0315933666|23/5 Duong 51, Phuong 14, Quan Go Vap, Thanh pho Ho Chi Minh
+CONG TY TNHH THUONG MAI DICH VU VA XAY DUNG AK SOLUTION|3401194894|27 Le Hong Phong, Phuong Phu Trinh, Thanh pho Phan Thiet, Tinh Binh Thuan
+CONG TY TNHH DICH VU VA PHAT TRIEN THUONG MAI KIM LONG|0108926597|So nha a2/2 ngo 126, duong Hoang Quoc Viet, Phuong Nghia Tan, Quan Cau Giay, Thanh pho Ha Noi
+CONG TY TNHH GIAI PHAP CONG NGHE SUBI|0108926607|So 30, ngo 48, Nguyen Chanh, Phuong Trung Hoa, Quan Cau Giay, Thanh pho Ha Noi
+CONG TY TNHH THUONG MAI S.L.D|0315935977|So 64, quoc lo 22, Xa Ba Diem, Huyen Hoc Mon, Thanh pho Ho Chi Minh
+CONG TY TNHH QUANG CAO THUONG MAI DICH VU XAY DUNG SANG TAO TUONG LAI|0315936064|72 Linh Trung, Khu pho 3, Phuong Linh Trung, Quan Thu Duc, Thanh pho Ho Chi Minh
+CONG TY TNHH DAU TU XAY DUNG THIEN NGAN|3401194904|Thon Tam Hung, Thi Tran Ma Lam, Huyen Ham Thuan Bac, Tinh Binh Thuan
+CONG TY TNHH MTV THUONG MAI SAN XUAT NGUYEN THI KIM NGAN|1201613544|So 226, Ap Binh Long, Xa Song Binh, Huyen Cho Gao, Tinh Tien Giang
+CONG TY TNHH MTV QUOC QUAN|1201613569|So 831 To 5, Ap Phong Thuan, Xa Tan My Chanh, Thanh pho My Tho, Tinh Tien Giang
+CONG TY TNHH HONGKONG SPA|0315936258|159B Xom Chieu, Phuong 16, Quan 4, Thanh pho Ho Chi Minh
+CONG TY TNHH TRANG TRI NOI THAT TAMBOUR|0315937702|211/23A Hoang Hoa Tham, Phuong 05, Quan Phu Nhuan, Thanh pho Ho Chi Minh
+CONG TY TNHH DAO TAO VA TU VAN HAPPY LIFE|2500636100|Khu Dinh The, Thi Tran Hop Hoa, Huyen Tam Duong, Tinh Vinh Phuc
+CONG TY TNHH SX DV TM PHU LOC|3301659578|Thon Hoa Mau, Xa Loc Tri, Huyen Phu Loc, Tinh Thua Thien - Hue
+CONG TY TNHH CONG NGHE DIEN VA DIEN LANH P&L|0315933560|9A Duong So 10, Phuong Tang Nhon Phu B, Quan 9, Thanh pho Ho Chi Minh
+CONG TY CO PHAN DAU TU XAY DUNG CAT VAN HUNG|0315935825|SAV8-20.11 Chung Cu The Sun Avenue, 28 Mai Chi Tho, Phuong An Phu, Quan 2, Thanh pho Ho Chi Minh
+CONG TY TNHH DICH VU CHUYEN PHAT NHANH ZTO THAI BINH|1001200564|So 317, duong Tran Hung Dao, to 30, Phuong De Tham, Thanh pho Thai Binh, Tinh Thai Binh
+CONG TY TNHH MOT THANH VIEN DU LICH VAN TAI VAN HOA VIET|5300772888|So 008, nhanh noi 10, Thi Tran Sa Pa, Huyen Sa Pa, Tinh Lao Cai
+CONG TY TNHH TMDV AN BINH|1001200395|So 38 Pho Doc Nhuong, Phuong De Tham, Thanh pho Thai Binh, Tinh Thai Binh
+CONG TY TNHH THUONG MAI - DICH VU- XUAT NHAP KHAU 1 DAI DUONG|3702815591|C15 duong D33, KDC Viet Sing, Khu pho 4, Phuong An Phu, Thi xa Thuan An, Tinh Binh Duong
+DOANH NGHIEP TU NHAN THE DIEN|6400412457|Thon Dak Tan, Xa Dak Nia, Thi xa Gia Nghia, Tinh Dak Nong
+CONG TY TNHH MOT THANH VIEN BAO BI HDI|1001200356|Lo 5, duong Ta Hien, Khu cong nghiep Phuc Khanh, Phuong Phu Khanh, Thanh pho Thai Binh, Tinh Thai Binh
+CONG TY TNHH THAO MOC NHAN SON DUOC|3101074395|Tieu khu 9, Thi Tran Quy Dat, Huyen Minh Hoa, Tinh Quang Binh
+CONG TY TNHH SAN XUAT THUONG MAI TRUC VAN|3502406802|Thon Son Lap, Xa Son Binh, Huyen Chau Duc, Tinh Ba Ria - Vung Tau
+CONG TY TNHH NONG NGHIEP LAM PHONG|6001669404|Thon 10, Xa Hoa Thang, TP.Buon Ma Thuot, Tinh Dak Lak
+CONG TY TNHH NU LOUNGE|0315936402|So 32 Hai Ba Trung, Phuong Ben Nghe, Quan 1, Thanh pho Ho Chi Minh
+CONG TY TNHH DAU TU THUONG MAI DICH VU GIAT UI SIEU TOC|0315935705|So 108 duong so 4, Phuong Binh Hung Hoa A, Quan Binh Tan, Thanh pho Ho Chi Minh
+CONG TY TNHH YOU LIAN LEATHER (VIET NAM)|1001200557|Thon Trung (nha ong Do Quoc Vinh), Xa Thai Hoc, Huyen Thai Thuy, Tinh Thai Binh
+CONG TY TNHH MOT THANH VIEN TM - DV - XD HUNG NHAT|3301659560|33 Thai Vinh Chinh, To 2, Phuong Thuy Luong, Thi xa Huong Thuy, Tinh Thua Thien - Hue
+CONG TY CO PHAN DUOC DONG TAN|0315936804|So 29 Duong DHT 30, Phuong Dong Hung Thuan, Quan 12, Thanh pho Ho Chi Minh
+CONG TY TNHH DICH VU VAN TAI & THUONG MAI POSGLOBAL JBK|3502406760|so 120 duong Phan Boi Chau, Khu pho Tan Phu, Phuong Phu My, Thi xa Phu My, Tinh Ba Ria - Vung Tau
+CONG TY TNHH DICH VU VA KHACH SAN MINH CHAU|5500594262|Ban Co, Phuong Chieng Sinh, Thanh pho Son La, Tinh Son La
+CONG TY TNHH MTV VAN TAI THANH KHOI VINH LONG|1501105968|So 26, duong Luu Van Liet, Phuong 2, Thanh pho Vinh Long, Tinh Vinh Long
+CONG TY CP DAU TU VA PHAT TRIEN GIAO DUC TOAN CAU|2902012977|Nha so 10, duong Bang Lang 2, Khu do thi Handico 69, Phuong Vinh Tan, Thanh pho Vinh, Tinh Nghe An
+CONG TY TNHH THUONG MAI DANH DUONG|3502406792|To 13, khu pho Phuoc Lap, Phuong My Xuan, Thi xa Phu My, Tinh Ba Ria - Vung Tau
+CONG TY TNHH DICH VU VIEN THONG THANH DANH|0108927512|722 duong Minh Khai, Phuong Vinh Tuy, Quan Hai Ba Trung, Thanh pho Ha Noi
+CONG TY TNHH TMDV TONG HOP PHU TRONG|2400872672|Thon Dong Tien, Xa Dong Phu, Huyen Luc Nam, Tinh Bac Giang
+CONG TY TNHH DAU TU VA PHAT TRIEN CONG NGHE SINH HOC HOANG PHAT|5801416016|So 831/25, quoc lo 20, Thi Tran Lien Nghia, Huyen Duc Trong, Tinh Lam Dong
+CONG TY TRACH NHIEM HUU HAN THUONG MAI XUAN HUNG HAU|5801416048|So 210/117 Tran Hung Dao, Phuong Loc Son, Thanh pho Bao Loc, Tinh Lam Dong
+CONG TY TNHH MAY MAC 11/9|0315931820|25/1C Ap Nam Thoi, Xa Thoi Tam Thon, Huyen Hoc Mon, Thanh pho Ho Chi Minh
+CONG TY CO PHAN RASKA|0108923229|so 48, ngo 117 Tran Cung, Phuong Co Nhue 1, Quan Bac Tu Liem, Thanh pho Ha Noi
+CONG TY CO PHAN THUC PHAM VANTRGAP|0315934902|360/8 Nguyen Thi Minh Khai, Phuong 05, Quan 3, Thanh pho Ho Chi Minh
+CONG TY TNHH LODAPA|0315937734|19 Phan Dinh Thong, Phuong An Lac, Quan Binh Tan, Thanh pho Ho Chi Minh
+CONG TY TNHH MTV DICH VU LONG THANH|2802799461|Khu pho 4, Thi Tran Thuong Xuan, Huyen Thuong Xuan, Tinh Thanh Hoa
+CONG TY CO PHAN XAY DUNG GIA HIEP PHAT|5801416009|Mo da Gia Hiep, thon 3, Xa Gia Hiep, Huyen Di Linh, Tinh Lam Dong
+CONG TY TNHH TM DV THIET KE XAY DUNG TAM MINH|0315935374|So 493/2D Duong Cach Mang Thang 8, Phuong 13, Quan 10, Thanh pho Ho Chi Minh
+CONG TY TNHH VE SINH CONG NGHIEP SONG PHUONG|0315936434|13/6B KP.2 , BUI VAN BA, Phuong Tan Thuan Dong, Quan 7, Thanh pho Ho Chi Minh
+CONG TY TNHH HY PETITE|0315936988|10/14 Dang Van Ngu, Phuong 10, Quan Phu Nhuan, Thanh pho Ho Chi Minh
+CONG TY TNHH XAY DUNG DICH VU VA THUONG MAI PHONG LINH|2802799454|Duong 513, thon Bac Hai, Xa Hai Thuong, Huyen Tinh Gia, Tinh Thanh Hoa
+CONG TY TNHH MINH LONG MOC CHAU|5500595001|To dan cu so 4, Tieu khu 1, Thi Tran Moc Chau, Huyen Moc Chau, Tinh Son La
+CONG TY TNHH DICH VU THUONG MAI CHUNG NGUYEN|2802799567|Khu pho 4, Thi Tran Thuong Xuan, Huyen Thuong Xuan, Tinh Thanh Hoa
+DOANH NGHIEP TU NHAN SAT THEP THE THANG|3702815633|Thua dat so 3861, To ban do so 20, khu DC ap 1, Phuong Thoi Hoa, Thi xa Ben Cat, Tinh Binh Duong
+CONG TY TNHH THUOC THU Y VA THUC PHAM GREENLIFE|0315931806|262 Duong 10, Phuong Phuoc Binh, Quan 9, Thanh pho Ho Chi Minh
+CONG TY TNHH GREESOU|0315935938|So nha 31, Duong so 2, Khu Dan Cu Melosa Khang Dien, Phuong Phu Huu, Quan 9, Thanh pho Ho Chi Minh
+CONG TY TNHH THUONG MAI - XUAT NHAP KHAU THANH CONG MOI|6001669394|Km 39, Quoc lo 26, Thon Phuoc Tho 3, Xa Ea Phe, Huyen Krong Pak, Tinh Dak Lak
+CONG TY TNHH GIAI PHAP NHAN SU GLOBAL DOOR|0315932937|511/19 Huynh Van Banh, Phuong 14, Quan Phu Nhuan, Thanh pho Ho Chi Minh
+CONG TY TNHH TNHH LE GIA 365|2802799479|Thon 5, Xa Can Khe, Huyen Nhu Thanh, Tinh Thanh Hoa
+CONG TY TRACH NHIEM HUU HAN MOT THANH VIEN XAY DUNG THUONG MAI DU LICH DUC PHAT|1702175732|Thua dat so 14, to ban do so 17, to 5, khu pho 4, Thi Tran An Thoi, Huyen Phu Quoc, Tinh Kien Giang
+CONG TY TNHH CUNG UNG DICH VU THUONG MAI SEA LION PQ|1702175757|Thua so 373, to ban do so 34, to 3, ap Cay Thong Trong, Xa Cua Duong, Huyen Phu Quoc, Tinh Kien Giang
+DOANH NGHIEP TN THAO THUY|2802799447|Thon Thanh Dinh, Xa Hai Thanh, Huyen Tinh Gia, Tinh Thanh Hoa
+CONG TY TRACH NHIEM HUU HAN THUOC DA OU PAI VIET NAM|3702815513|Thua dat so 493, to ban do so 20, Khu pho 3, Phuong Tan Dinh, Thi xa Ben Cat, Tinh Binh Duong
+CONG TY TNHH BESTONES|0108923878|So 487 duong Lang, to 19, Phuong Lang Thuong, Quan Dong Da, Thanh pho Ha Noi
+CONG TY TNHH THIET KE XAY DUNG THUONG MAI AN GIA NGUYEN|0315936515|Can so 0.1, Tang tret, Khu E, Chung cu Tam Phu, So 1A-1B Duong Cay Keo, Phuong Tam Phu, Quan Thu Duc, Thanh pho Ho Chi Minh
+CONG TY TNHH DV&TM NAM VIET|0315933659|661/12 Ha Huy Giap, Khu pho 3, Phuong Thanh Xuan, Quan 12, Thanh pho Ho Chi Minh
+CONG TY TNHH DICH VU CHAT LUONG QMC|0315934613|Tang 1, Toa nha Packsimex, 52 Dong Du, Phuong Ben Nghe, Quan 1, Thanh pho Ho Chi Minh
+CONG TY TNHH THU MUA VAN CHUYEN PHE LIEU PHAT HUY|0315937727|72/12/5 Duong TMT13, Khu Pho 3, Phuong Trung My Tay, Quan 12, Thanh pho Ho Chi Minh
+CONG TY TNHH DICH VU TU VAN VA DAI LY THUE DUY KHIEM|3502406880|54/8 duong Nguyen Binh Khiem, Phuong Thang Tam, Thanh pho Vung Tau, Tinh Ba Ria - Vung Tau
+CONG TY TNHH TMTH TRUONG SINH|3101074388|To dan pho 1 My Cuong, Phuong Bac Nghia, Thanh pho Dong Hoi, Tinh Quang Binh
+CONG TY TNHH DAO TAO NGUON NHAN LUC SWINBURNE|3702815552|So 187/13, duong Ben Cha Vi, to 8, khu pho 5, Phuong My Phuoc, Thi xa Ben Cat, Tinh Binh Duong
+CONG TY TNHH MOI TRUONG XANH LINH KHOI|2902012938|So 13, duong Dang Thuc Hua, Phuong Truong Thi, Thanh pho Vinh, Tinh Nghe An
+CONG TY TNHH THUONG MAI, DAI LY THUE S - H|2802799574|So nha 48, duong Tran Quang Khai, Khu 6, Thi Tran Tho Xuan, Huyen Tho Xuan, Tinh Thanh Hoa
+CONG TY TNHH GIA CONG THUONG MAI HOA PHAM ALPHA|3702815538|O 18, lo A2, khu pho Binh Thuan 2, Phuong Thuan Giao, Thi xa Thuan An, Tinh Binh Duong
+CONG TY TNHH THUONG MAI THIEN QUANG PHAT|3702815873|58/5 Duong Thong Nhat, Khu Pho Hiep Thang, Phuong Binh Thang, Thi Xa Di An, Tinh Binh Duong
+CONG TY TNHH THUONG MAI DICH VU VAN PHONG PHAM MINH PHAT|3702815721|Thua dat so 117, To ban do so 47, Ap Vuon Vu, Xa Tan My, Huyen Bac Tan Uyen, Tinh Binh Duong
+CONG TY TNHH THUONG MAI VA DICH VU H-A-T|0801298973|Khu Cong Giong, Xa Dai Dong, Huyen Tu Ky, Tinh Hai Duong
+CONG TY TNHH MTV YONG HWA VINA|1101929939|Lo so 3 Khu dan cu Hoa Binh, ap 7, Xa Nhi Thanh, Huyen Thu Thua, Tinh Long An
+CONG TY TNHH THANG MAI|4601545816|xom Dong, Xa Tan Huong, Thi xa Pho Yen, Tinh Thai Nguyen
+CONG TY TNHH DUC QUAN EVEREST|4601545823|To 1, Phuong Gia Sang, Thanh pho Thai Nguyen, Tinh Thai Nguyen
+CONG TY TNHH MTV HUNG HWA VINA|1101929921|Thua dat so 1507&1512, ap An Hoa 3, Thi Tran Thu Thua, Huyen Thu Thua, Tinh Long An
+CONG TY TNHH THUONG MAI DICH VU & SAN XUAT NHUA TIEN THANH|3702815665|So 17, To 1, Khu pho Khanh Loc, Phuong Tan Phuoc Khanh, Thi xa Tan Uyen, Tinh Binh Duong
+CONG TY TNHH XUAT NHAP KHAU MINH CUONG LS|4900855189|So 559, duong Tran Dang Ninh, Xa Hoang Dong, Thanh pho Lang Son, Tinh Lang Son
+CONG TY TNHH SAN XUAT- THUONG MAI- DICH VU NHUA SHIN SEKAI|1101929907|2992, ap 4, Xa My Yen, Huyen Ben Luc, Tinh Long An
+CONG TY CO PHAN THUONG MAI, DICH VU VA DU LICH NHAT MINH|2902012952|Xom Mau 5, Xa Kim Lien, Huyen Nam Dan, Tinh Nghe An
+CONG TY TNHH MOT THANH VIEN TRUONG PHAT BINH PHUOC|3801209506|Duong so 4, khu pho 2, Phuong Tien Thanh, Thanh pho Dong Xoai, Tinh Binh Phuoc
+CONG TY TNHH THUONG MAI TIEP VAN TOAN CAU AC&T|3801209471|So 18, Khu pho Tan Tra 1, Phuong Tan Binh, Thanh pho Dong Xoai, Tinh Binh Phuoc
+CONG TY TNHH VAT TU MOT CUA HUNG YEN|0901063485|Pho Ban, Phuong Ban Yen Nhan, Thi xa My Hao, Tinh Hung Yen
+CONG TY TNHH THUONG MAI DICH VU NAM VIET-VUNG TAU|3502406873|So 780/37 Binh Gia, Phuong 11, Thanh pho Vung Tau, Tinh Ba Ria - Vung Tau
+CONG TY TNHH SX TM XNK SAT THEP KIM TIEN|1101929914|Thua 89, to ban do so 8, ap Kim Tien, Xa Tan Kim, Huyen Can Giuoc, Tinh Long An
+CONG TY TNHH GO HUA HONG|3702815658|Thua dat so 1140, to ban do so 47, khu pho Binh Chanh, Phuong Khanh Binh, Thi xa Tan Uyen, Tinh Binh Duong
+CONG TY TNHH MOT THANH VIEN THUONG MAI TIEN PHAT BINH PHUOC|3801209464|Doi 1, Ap 4, Xa Dong Tam, Huyen Dong Phu, Tinh Binh Phuoc
+CONG TY TNHH THANG MAY DUC TRI|3702815707|Thua dat so 411, To ban do so 6, Khu pho 4, Phuong Tan Dinh, Thi xa Ben Cat, Tinh Binh Duong
+CONG TY TNHH THIET KE TRANG TRI DA HOA PHONG|0108924575|No.2, khu D3 – Gleximco, duong Le Trong Tan, Phuong Duong Noi, Quan Ha Dong, Thanh pho Ha Noi
+CONG TY TNHH TM DV LAC GIA|0315937389|54/10/5 Tan Chanh Hiep 7, Phuong Tan Chanh Hiep, Quan 12, Thanh pho Ho Chi Minh
+CONG TY TNHH XAY DUNG TONG HOP VA VAN TAI PHU HUNG|3101074370|Doi 2 Thon My Duc, Xa Son Thuy, Huyen Le Thuy, Tinh Quang Binh
+CONG TY TNHH SAN XUAT THUONG MAI DICH VU THIEN CHAN MINH VN|0315937371|D10/23 Trinh Nhu Khue, Xa Binh Chanh, Huyen Binh Chanh, Thanh pho Ho Chi Minh
+CONG TY TNHH DICH VU THUONG MAI TOAN TIEN|1201613512|78 Quoc Lo 1, Phuong 4, Thi Xa Cai Lay, Tinh Tien Giang
+CONG TY TNHH SX & TM CHIEU TRUC NGUYEN HUU|2902013184|Nha ong Nguyen Duy Huu, xom 5, Xa Thanh My, Huyen Thanh Chuong, Tinh Nghe An
+CONG TY TNHH HUU DIEN|1201613505|Ap Tan Thuan, Xa Tan Huong, Huyen Chau Thanh, Tinh Tien Giang
+CONG TY TNHH SAN XUAT VA THUONG MAI KHANH HUONG|0108925106|So 104, Ngo 46, Duong Trung Son Tram, Phuong Trung Son Tram, Thi Xa Son Tay, Thanh pho Ha Noi
+CONG TY TNHH MUSCLE FOOD VIET NAM|0108923557|Tang 2, khoi Van phong, toa HH1, toa nha Meco Complex, ngo 102, duong Truong Chinh, Phuong Phuong Mai, Quan Dong Da, Thanh pho Ha Noi
+CONG TY TNHH TMDV DAU TU NHAT HUY|3502406841|28/6/1 Luong Van Can, Phuong 2, Thanh pho Vung Tau, Tinh Ba Ria - Vung Tau
+CONG TY TNHH PACIFIC LINK INTERNATIONAL FREIGHT FORWARDING VIETNAM|0315936610|68 Bach Dang, Phuong 2, Quan Tan Binh, Thanh pho Ho Chi Minh
+CONG TY TNHH DAU TU VA PHAT TRIEN THUONG MAI PHUC AN KHANG|4401069486|So 26 Tran Quy Cap, Phuong 3, TP Tuy Hoa, Tinh Phu Yen
+CONG TY TNHH XAY DUNG VA DU LICH THIEN ANH|0315932327|979/12 Le Van Luong, Ap 3, Xa Phuoc Kien, Huyen Nha Be, Thanh pho Ho Chi Minh
+CONG TY TNHH SAN XUAT THUONG MAI DICH VU KIM THUAN PHAT TIEN GIANG|1201613495|54 Ap Trung Hoa, Xa Trung Hoa, Huyen Cho Gao, Tinh Tien Giang
+CONG TY TNHH THUONG MAI DICH VU VAN TAI DUONG CHAU|2902013138|Xom 7, Xa Nghi Hoa, Huyen Nghi Loc, Tinh Nghe An
+CONG TY TNHH MTV HAI QUYET|0801298941|So nha 271 Le Thanh Nghi, Phuong Le Thanh Nghi, Thanh pho Hai Duong, Tinh Hai Duong
+CONG TY CO PHAN THUOC THU Y HANOFARM|0108925441|Lo D2 – Cum cong nghiep Thuc pham Hapro, Xa Le Chi, Huyen Gia Lam, Thanh pho Ha Noi
+CONG TY TNHH CONG NGHE MAY TINH NGOC TUAN|2802799542|Lo A98 - MBQH934, Phuong Dong Hai, Thanh pho Thanh Hoa, Tinh Thanh Hoa
+CONG TY TNHH TU VAN XAY DUNG QUANG MINH|5400511632|So 52, ngo 50, duong Thinh Minh, Phuong Thinh Lang, Thanh pho Hoa Binh, Tinh Hoa Binh
+CONG TY TNHH DUOC UNIFA|2601032401|Khu 9, Xa Ninh Dan, Huyen Thanh Ba, Tinh Phu Tho
+CONG TY TNHH TU VAN KIEN TRUC DUC PHUC|3002142083|So nha 16 duong Ho Phi Chan, To dan pho 6, Thi Tran Thach Ha, Huyen Thach Ha, Tinh Ha Tinh
+CONG TY TNHH THUONG MAI VA XAY DUNG TCT|3002142090|Nha ong Nguyen Viet Viet, Thon Dan Trung, Xa Thach Long, Huyen Thach Ha, Tinh Ha Tinh
+CONG TY TNHH HUYEN ANH DAK LAK|6001669387|To dan pho 6, Thi Tran Phuoc An, Huyen Krong Pak, Tinh Dak Lak
+HOP TAC XA TAM  AN|3603668843|ap 5, Xa Tam An, Huyen Long Thanh, Dong Nai
+CONG TY TNHH DAU TU XAY DUNG VA THUONG MAI PHUC AN NINH THUAN|4500635090|So 03 Duong Tran Quy Cap, Phuong My Hai, TP. Phan Rang-Thap Cham, Ninh Thuan
+CONG TY CO PHAN TU VAN DAU TU VA XAY DUNG AN HOACH|2802799422|179 Pho Tan Son, Phuong An Hoach, Thanh pho Thanh Hoa, Thanh Hoa
+HOP TAC XA HOP TAC XA NONG SAN - DICH VU LOC NAM FARM|5801415950|5, Xa Loc Nam, Huyen Bao Lam, Lam Dong
+HOP TAC XA HOP TAC XA NONG NGHIEP DICH VU LOC LAM|5801415968|3, Xa Loc Lam, Huyen Bao Lam, Lam Dong
+CONG TY TNHH TONG HOP QUANG LONG|2802799510|Thon 5, Xa Hoang Long, Thanh pho Thanh Hoa, Tinh Thanh Hoa
+CONG TY TNHH THUONG MAI THUONG NAM - TH|2802799535|Thon Thinh Van, Xa Quang Thinh, Thanh pho Thanh Hoa, Tinh Thanh Hoa
+CONG TY CO PHAN DIA OC NAM AN|1201613537|So 1157/3 Ap Tan Thanh, Xa Tan Huong, Huyen Chau Thanh, Tinh Tien Giang
+CONG TY TNHH DICH VU THO HUNG|2802799493|Thon 5, Xa Hoang Long, Thanh pho Thanh Hoa, Tinh Thanh Hoa
+CONG TY TNHH VAT LIEU XAY DUNG XUAN HUONG|2802799503|Thon Yen Lai, Xa Cong Binh, Huyen Nong Cong, Tinh Thanh Hoa
+CONG TY TNHH THIET BI VAT TU Y TE TC|2802799528|So nha 23 Duong Nguyen Phuc, Phuong Quang Thang, Thanh pho Thanh Hoa, Tinh Thanh Hoa
+CONG TY TNHH MTV TM DV MAC KY ANH|0315930489|435/53/14 Khu Pho 1, Duong Huynh Tan Phat, Phuong Tan Thuan Dong, Quan 7, TP Ho Chi Minh
+CONG TY TNHH AM THUC VENUS|0315935991|12B Thai Van Lung, Phuong Ben Nghe, Quan 1, TP Ho Chi Minh
+CONG TY TNHH VINAUGO INTERNATIONAL|0315936829|467 Tan Son, Khu pho 16, Phuong 12, Quan Go Vap, TP Ho Chi Minh
+CONG TY TNHH MOT THANH VIEN XAY DUNG THUONG MAI LE THANH DUNG|0315937660|58/51/39 Phan Chu Trinh, Phuong 24, Quan Binh Thanh, TP Ho Chi Minh
+CONG TY TNHH KIEM TOAN TSM|0108926438|So nha 12B, ngo 178 duong Hoang Mai, Phuong Hoang Van Thu, Quan Hoang Mai, Ha Noi
+CONG TY TNHH KARGOSMART GLOBAL VIETNAM|0315932302|3G Pho Quang, Phuong 2, Quan Tan Binh, TP Ho Chi Minh
+DOANH NGHIEP TU NHAN PHUONG CAT NT|4201864286|86B Nguyen Xien, Xa Vinh Phuong, Thanh pho Nha Trang, Khanh Hoa
+CONG TY TNHH TM DV XNK GIA KHANG|0315933232|So 151/7A Han Hai Nguyen, Phuong 2, Quan 11, TP Ho Chi Minh
+CONG TY TNHH SAT THEP NAM THIEN PHU|3502406827|Thon Duc My, Xa Suoi Nghe, Huyen Chau Duc, Ba Ria - Vung Tau
+CONG TY CO PHAN NICE BLOOM|0315937646|Toa nha Nam Viet Luat, So 491/1 Truong Chinh, Phuong 14, Quan Tan Binh, TP Ho Chi Minh
+CONG TY TNHH BAO HIEM TAI CHINH TRUC TUYEN VIET NAM|0315934532|78 Duong Dinh Nghe, Phuong 8, Quan 11, TP Ho Chi Minh
+CONG TY TNHH DICH VU VAN TAI SONG HANH AN|0315917135|81/32 Nguyen Cuu Van, Phuong 17, Quan Binh Thanh, TP Ho Chi Minh
+CONG TY TNHH THANH XUAN TXT|0315935399|13 Hoang Dieu 2, Phuong Linh Trung, Quan Thu Duc, TP Ho Chi Minh
+CONG TY CO PHAN PHAT TRIEN NANG LUONG DECO KHANH HOA|4201864293|Thon Trung, Xa Ninh Tan, Thi xa Ninh Hoa, Khanh Hoa
+CONG TY TNHH THANH DO TNC VIET NAM|0108926685|Thon Lieu Noi, Xa Khanh Ha, Huyen Thuong Tin, Ha Noi
+CONG TY TNHH THUONG MAI XUAT NHAP KHAU BAO KHANG|3801209496|Thon Son Tung, Xa Tho Son, Huyen Bu Dang, Binh Phuoc
+CONG TY TNHH SAN XUAT THUONG MAI DICH VU XAY DUNG HAI ANH|3702814904|57/28 DX031, Khu Pho 7, Phuong Phu My, Thanh pho Thu Dau Mot, Binh Duong
+CONG TY TNHH CO KHI XAY DUNG VA CONG NGHIEP MINH SANG|0315936748|48/20 Duong so 10, Phuong Binh Hung Hoa B, Quan Binh Tan, TP Ho Chi Minh
+CONG TY TNHH GIAI PHAP CONG NGHE BT ONE|0315917512|So 143 Nguyen Duc Thuan, Phuong 13, Quan Tan Binh, TP Ho Chi Minh
+CONG TY TNHH DE NHAT HUNG THANH|0315936875|819 Cach Mang Thang 8, Phuong 6, Quan Tan Binh, TP Ho Chi Minh
+CONG TY CO PHAN TU VAN VA DAU TU ERA HOMES|0315937406|113 Duong So 8, Khu Dan Cu Cityland, Phuong 10, Quan Go Vap, TP Ho Chi Minh
+CONG TY TNHH LUU HUONG DAO|0315933345|C9/28T aP 3, Xa Vinh Loc B, Huyen Binh Chanh, TP Ho Chi Minh
+CONG TY CO PHAN BACH HUNG LONG|0315937685|Tang 2, so 169 Luong Dinh Cua, Khu pho 3, Phuong Binh An, Quan 2, TP Ho Chi Minh
+CONG TY TNHH TM DT XD TRAN SANG|1101929784|So 440, ap 2, Xa Long Dinh, Huyen Can Duoc, Long An
+CONG TY CO PHAN RICH TREND|0315937678|202 Hoang Van Thu, Phuong 09, Quan Phu Nhuan, TP Ho Chi Minh
+CONG TY TNHH YEN NHI - SOCOLA|0315937452|75/6 Hoang Sa, Phuong Da Kao, Quan 1, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI BICH PHONG|0315937364|369/41 Ly Thai To, Phuong 09, Quan 10, TP Ho Chi Minh
+CONG TY TNHH AIDI|0315937420|L17-11, Tang 17, Toa Nha Vincom Center, 72 Le Thanh Ton, Phuong Ben Nghe, Quan 1, TP Ho Chi Minh
+CONG TY TNHH DICH VU - THUONG MAI THIEN VI|0108925547|So 22, Ngach 6/75 Dang Van Ngu, Phuong Phuong Lien, Quan Dong da, Ha Noi
+CONG TY TNHH DICH VU DU LICH VA SU KIEN SAO VIET|0108925427|Thon Vinh Ninh, Xa Vinh Quynh, Huyen Thanh Tri, Ha Noi
+CONG TY TNHH DAU TU TL - THIEN LOC|0315937759|38 Duong So 04, Khu Him Lam, Phuong Tan Hung, Quan 7, TP Ho Chi Minh
+CONG TY TNHH  KINH MAT QUANG HA VIET NAM|0315903291|771 Le Hong Phong, Phuong 12, Quan 10, TP Ho Chi Minh
+TRUONG TIEU HOC QUANG VINH|3002142100|Thon Vinh Dai, Xa Duc Vinh, Huyen Duc Tho, Ha Tinh
+CONG TY CO PHAN CONG NGHIEP 30-4|0315936106|48A Lac Long Quan, Cu Xa Phu Tho Hoa, Phuong 6, Quan 11, TP Ho Chi Minh
+CONG TY TNHH NONG THUONG THAI THINH BINH|3702814693|So 072, To 6, ap Vinh An, Xa Tan Vinh Hiep, Thi xa Tan Uyen, Binh Duong
+CONG TY TNHH LOC PHAT THO|0315917255|43 Quang Trung, Phuong 10, Quan Go Vap, TP Ho Chi Minh
+CONG TY CO PHAN DAU TU TRANG TIEN PLAZA II|0315936138|132/7 Hoang Van Thu, Phuong 09, Quan Phu Nhuan, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI DICH VU NONG PHAT DAT|0315916237|160 duong so 03, Xa Binh Hung, Huyen Binh Chanh, TP Ho Chi Minh
+CONG TY TNHH DAU TU VA THUONG MAI VCS|0108921359|So 3 ngo 46 Doi Can, Phuong Doi Can, Quan Ba Dinh, Ha Noi
+CONG TY TNHH MAY PHUC LINH|2802799380|Thon ap Tru, Xa Dinh Binh, Huyen Yen Dinh, Thanh Hoa
+CONG TY TNHH XUAT NHAP KHAU THUC PHAM CAT LINH|0315936177|223/9 Thich Quang Duc, Phuong 04, Quan Phu Nhuan, TP Ho Chi Minh
+CONG TY TNHH SAN XUAT THUONG MAI CHIA KHOA THANH CONG|0315915579|1/36 Tran Binh Trong, Phuong 5, Quan Binh Thanh, TP Ho Chi Minh
+CONG TY TNHH THANG MAY SEVEN DA NANG|0402004332|K120/H02/11 Nguyen Luong Bang, Phuong Hoa Khanh Bac, Quan Lien Chieu, Da Nang
+CONG TY TNHH QUANG CAO DU LICH SEN VANG|0315915515|156 Chien Thang, Phuong 09, Quan Phu Nhuan, TP Ho Chi Minh
+CONG TY TNHH KINH DOANH VA PHAT TRIEN TCO VIET NAM|0108924367|So 3 ngo 46 Doi Can, Phuong Doi Can, Quan Ba Dinh, Ha Noi
+CONG TY TNHH LAKINH HOLDINGS|0315933151|Can ho so LM81-25.OT03, Toa Landmark 81 Vinhomes Central P, Phuong 22, Quan Binh Thanh, TP Ho Chi Minh
+CONG TY TNHH QUAN LY CHUOI CUNG UNG QUOC TE TRUNG VIET KHAI|0108925515|So 60, ngo 445 Lac Long Quan, Phuong Xuan La, Quan Tay Ho, Ha Noi
+CONG TY TNHH MTV THUONG MAI CONG NGHE WICELL|0315932408|7B Phan Ton, Phuong Da Kao, Quan 1, TP Ho Chi Minh
+CONG TY TNHH QUANG CAO HOP LUC|4201864166|56 Phong Chau, Phuong Phuoc Hai, Thanh pho Nha Trang, Khanh Hoa
+CONG TY TNHH CUNG UNG QUOC TE TAN THE GIOI|4201864310|03 Lac An, Phuong Phuoc Hai, Thanh pho Nha Trang, Khanh Hoa
+TRUONG TIEU HOC VA TRUNG HOC CO SO XUAN QUANG 2|4401069503|Triem Duc, Xa Xuan Quang 2, Huyen Dong Xuan, Phu Yen
+CONG TY TNHH MTV AN LAC VINH LONG|1501105943|So 538, ap Tan Quoi Dong, Xa Truong An, Thanh pho Vinh Long, Vinh Long
+CONG TY TNHH DICH VU TU VAN, GIAI PHAP VA PHAT TRIEN PHAN MEM SUNSHINE|0108925392|So nha 29 ngo 788/26 duong Kim Giang, Xa Thanh Liet, Huyen Thanh Tri, Ha Noi
+CONG TY TNHH CO DIEN VA NANG LUONG 79|4201864173|Thon Phuoc Loi, Xa Phuoc Dong, Thanh pho Nha Trang, Khanh Hoa
+CONG TY TNHH A-ONE VIET NAM|0108917602|So 8 ngo 86 Ngoc Thuy, Phuong Ngoc Thuy, Quan Long Bien, Ha Noi
+CONG TY TNHH THUONG MAI DICH VU HA XUAN|0315935857|Tang 1 Toa Nha An Phu Plaza, 117- 119 Ly Chinh Thang, Phuong 07, Quan 3, TP Ho Chi Minh
+CONG TY CO PHAN VIET DRAGON INVESTMENT|0315936233|So 25 duong so 5, Khu Lavila Kien a, 25 Nguyen Huu Tho, Xa Phuoc Kien, Huyen Nha Be, TP Ho Chi Minh
+CONG TY TNHH MOT THANH VIEN THUONG MAI VA DICH VU O LY|0402004283|So 9 duong An Thuong 14, Phuong My An, Quan Ngu Hanh Son, Da Nang
+CONG TY TNHH THUONG MAI LOTUS VINH PHUC|2500636118|Thon Binh Lam, Xa Tam Hong, Huyen Yen Lac, Vinh Phuc
+CONG TY TNHH XUAT NHAP KHAU DIA LONG|0315935945|39 duong so 5, khu pho 4, Phuong Binh An, Quan 2, TP Ho Chi Minh
+CONG TY CO PHAN THUC PHAM DINH DUONG YEN SAO LYNEST|0315933539|So 78B Ton That Thuyet, Phuong 16, Quan 4, TP Ho Chi Minh
+CONG TY TNHH LIREC DESIGN|0315933899|352/4 Duong Trinh Dinh Trong, Phuong Hoa Thanh, Quan Tan phu, TP Ho Chi Minh
+CONG TY TNHH PHAT TRIEN VA QUAN LY KHACH SAN THIEN NIEN KY|0315933923|80 Nguyen Thi Thap, Phuong Tan Hung, Quan 7, TP Ho Chi Minh
+CONG TY CO PHAN DAU TU - THUONG MAI BBI - THANH DONG|0801298853|So 8 pho Do Luong, Phuong Quang Trung, Thanh pho Hai Duong, Hai Duong
+CONG TY TNHH NGHIA HUNG HP|1702175725|So 126 ap Pham Dinh Nong, Xa Thanh Hung, Huyen Giong Rieng, Kien Giang
+CONG TY TNHH TRUNG THIEN (VIET NAM)|0801298902|Thon An Cuong, Xa Hiep Son, Huyen Kinh Mon, Hai Duong
+CONG TY TNHH TU VAN VA XAY DUNG HOANG TIEN|1602109366|ap Bac Dai, Xa Nhon Hoi, Huyen An Phu, An Giang
+CONG TY TNHH THUONG MAI VA AM THUC KHOI NGUYEN|0108924053|So 424C duong au Co, To 29, Cum 4, Phuong Nhat Tan, Quan Tay Ho, Ha Noi
+CONG TY CO PHAN CHAU BAC|3401194855|Xom 1, Xa Chi Cong, Huyen Tuy Phong, Binh Thuan
+CONG TY TNHH PHAP LY KIM CUONG|0315935310|L17-11 Tang 17, Toa nha Vincom Center, So 72 Le Thanh Ton, Phuong Ben Nghe, Quan 1, TP Ho Chi Minh
+CONG TY TNHH SAN XUAT THUONG MAI DICH VU SMART WINDOW|3603671772|So 126/76, to 4, KP 1, Phuong Tan Hiep, Thanh pho Bien Hoa, Dong Nai
+CONG TY TNHH MTV XAY DUNG TONG HOP NGUYEN DUC|5300772863|So nha 181, duong Ton That Thuyet, Phuong Pho Moi, Thanh pho Lao Cai, Lao Cai
+CONG TY TNHH THUONG MAI SONG QUOC|0315915378|156 Chien Thang, Phuong 09, Quan Phu Nhuan, TP Ho Chi Minh
+CONG TY TNHH GIAI PHAP CONG NGHE SAKURA VIET NAM|2500636125|Khu 2, Thi tran Vinh Tuong, Huyen Vinh Tuong, Vinh Phuc
+CONG TY TNHH THUONG MAI DICH VU DUA AN NHAN|1301082135|Thua dat so 142, to ban do so 11, ap Giong Lon, Xa Nhuan Phu Tan, Huyen Mo Cay Bac, Ben Tre
+CONG TY TNHH KCI VIETNAM|0315934490|Tang 1, Toa nha VietPhone Building-2, 21 Phan Ke Binh, Phuong Da Kao, Quan 1, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI DICH VU DU LICH THINH PHU|0402004357|158 Doan Huu Trung, Phuong Hoa An, Quan Cam Le, Da Nang
+CONG TY TNHH T-SMART LOGISTICS VIET NAM|0108925586|Tang 1 lo TT2-33, duong Phuc Loi, to 6, Phuong Giang Bien, Quan Long Bien, Ha Noi
+CONG TY TNHH THUONG MAI & DICH VU DANA ELITE|0402004325|160 Le Dinh, Phuong Hoa Xuan, Quan Cam Le, Da Nang
+CONG TY CP DAU TU CAU CONG VANG|1801650146|So 80 Bui Huu Nghia, Phuong Binh Thuy, Quan Binh Thuy, Can Tho
+CONG TY CO PHAN ANH DUONG GROUP|5801415904|So 252 duong Xo Viet Nghe Tinh, Phuong 7, Thanh pho Da Lat, Lam Dong
+CONG TY TNHH SUNFLOWER|0315932334|135/37/4 Nguyen Huu Canh, Phuong 22, Quan Binh Thanh, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI AN THINH PHAT LS|4900855118|So 24, duong Ba Trieu, phuong Hoang Van Thu, Phuong Hoang Van Thu, Thanh pho Lang Son, Lang Son
+CONG TY CO PHAN BAT DONG SAN SKY LAND|0801298596|Doi 8, Thon An Xa, Xa Quoc Tuan, Huyen Nam Sach, Hai Duong
+CONG TY TNHH PHAT TRIEN CONG NGHE THAI PHUONG|0108925385|So 20 lien ke 2 khu nha o can bo chien si tong cuc 5 - Bo co, Xa Tan Trieu, Huyen Thanh Tri, Ha Noi
+CONG TY TNHH MOT THANH VIEN TU VAN XAY DUNG THIEN PHUC Y|1801650918|D8 Khu dan cu Hang Bang, Phuong An Khanh, Quan Ninh Kieu, Can Tho
+CONG TY TNHH MTV TIEN SY DUONG|6101263292|Thon Dak Me, Xa Po Y, Huyen Ngoc Hoi, Kon Tum
+CONG TY TNHH MOT THANH VIEN THUONG MAI DICH VU DU LICH VAN TAI MANH VIET|1801650900|D1-16, khu dan cu 586, khu vuc Thanh Thuan, Phuong Phu Thu, Quan Cai Rang, Can Tho
+CONG TY TNHH  XD &TM TRUONG THUAN|0108926290|So 14 ngach 73/2 to 4, Bang B, Phuong Hoang Liet, Quan Hoang Mai, Ha Noi
+CONG TY TNHH SAN XUAT VA THUONG MAI THEP AN PHU|0108925346|So C42, Ngach 455/6 Duong Ha Huy Tap, Thi tran Yen Vien, Huyen Gia Lam, Ha Noi
+CONG TY TNHH MOT THANH VIEN MINH CUONG AUDIO|0402004004|K42/H2/3 Tieu La, Phuong Hoa Cuong Bac, Quan Hai Chau, Da Nang
+CONG TY TNHH THUONG MAI DICH VU NAM SONG NGOC|1801650925|F38, KDC Hang Bang, Phuong An Khanh, Quan Ninh Kieu, Can Tho
+CONG TY CO PHAN  TU VAN XAY DUNG BG VIET NAM|0108925152|So 107 ngo 6 Trung Kinh, Phuong Trung Hoa, Quan Cau Giay, Ha Noi
+CONG TY TNHH PI AN|3702815217|175, duong Nguyen Tri Phuong, khu pho 8, Phuong Chanh Nghia, Thanh pho Thu Dau Mot, Binh Duong
+CONG TY CO PHAN THUONG MAI DICH VU TU VAN VIET ANH QUAN|3603671596|So 106, To 2, Khu Pho 3, Phuong Long Binh, Thanh pho Bien Hoa, Dong Nai
+CONG TY TNHH THUONG MAI DICH VU NONG SAN HAI HOA|0315933627|So 57, Duong ut Tra on, Khu Pho 6, Phuong Phuoc Long B, Quan 9, TP Ho Chi Minh
+CONG TY TNHH SAN XUAT VA THUONG MAI TRONG HANG|2500636090|Duong Nguyen Tat Thanh, Xa Dinh Trung, Thanh pho Vinh Yen, Vinh Phuc
+CONG TY TNHH KHUON MAU KIM XINH|3702815231|Thua dat so 863,To ban do so 42, ap Lo o, Xa An Tay, Thi Xa Ben Cat, Binh Duong
+CONG TY CO PHAN KIEM DINH AN TOAN DONG DUONG|0315935864|15/2 duong so 15, Khu pho 3, Phuong Hiep Binh Phuoc, Quan Thu Duc, TP Ho Chi Minh
+CONG TY CO PHAN DAU TU THUONG MAI DICH VU F&L|0315935790|347/12A/4 Chu Van An, Phuong 12, Quan Binh Thanh, TP Ho Chi Minh
+CONG TY TNHH THIET KE VA TU VAN LYR|0315930707|24 Tan Canh, Phuong 1, Quan Tan Binh, TP Ho Chi Minh
+CONG TY TNHH DAU TU DIA OC BIG LAND|3603671589|So 145/1, Duong Bui Trong Nghia, KP 2, Phuong Trang Dai, Thanh pho Bien Hoa, Dong Nai
+CONG TY TNHH MOT THANH VIEN HUYEN VU PHAT|3801209489|To 2, ap Quan Loi B, Xa Tan Loi, Huyen Hon Quan, Binh Phuoc
+CONG TY CO PHAN DAU TU VA XAY DUNG TRUNG CUONG|0801298892|Thon Hiep Thach, Xa Hiep Son, Huyen Kinh Mon, Hai Duong
+CONG TY TNHH THUONG MAI THIET BI DIEN TKN|0315936071|342/3 Truong Chinh, Phuong Tan Hung Thuan, Quan 12, TP Ho Chi Minh
+CONG TY TNHH TINH TAM TRA|0315935920|373/35/8 Ly Thuong Kiet, Phuong 9, Quan Tan Binh, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI VA DICH VU ANH DUONG|0108927209|Tang 3, So 12 Dong Bat, Phuong My Dinh 2, Quan Nam Tu Liem, Ha Noi
+CONG TY TNHH QUANG CAO DICH VU SEN HONG|0315918379|11 Hoang Sa, Phuong Da Kao, Quan 1, TP Ho Chi Minh
+CONG TY CO PHAN THUC PHAM HANDOO|0108924783|so 4, ngo 67, pho Nguyen Kha Trac, Phuong Mai Dich, Quan Cau Giay, Ha Noi
+CONG TY CO PHAN KIEN TRUC XAY DUNG VA NOI THAT MINH HOANG|0108925498|So 8, Ngach 63/22/2, To dan pho Ngoc Dai , duong Dai Mo, Phuong Dai Mo, Quan Nam Tu Liem, Ha Noi
+CONG TY TNHH THUONG MAI DICH VU VAN THANH BINH DUONG|3702815457|Thua dat so 144, to ban do so 7, khu nha o Sun Casa, khu dan, Phuong Hoa Phu, Thanh pho Thu Dau Mot, Binh Duong
+CONG TY TNHH DICH VU HONG THUY|0402004244|246 duong Ho Nghinh, Phuong Phuoc My, Quan Son Tra, Da Nang
+CONG TY TNHH MTV XAY DUNG CO GIOI LOC SON HA|0315936032|449/40/602 ap 6, Xa Dong Thanh, Huyen Hoc Mon, TP Ho Chi Minh
+CONG TY TNHH SAN XUAT THUONG MAI XUAT NHAP KHAU PHUONG TUYET|3502406312|Duong 21, Thon Vinh Son, Xa Nghia Thanh, Huyen Chau Duc, Ba Ria - Vung Tau
+CONG TY CO PHAN THE THAO HSD|3702815263|So 203 duong Hoang Van Thu, KDC Chanh Nghia, to 98, khu 11, Phuong Chanh Nghia, Thanh pho Thu Dau Mot, Binh Duong
+CONG TY CO PHAN THANG HOA|3603671885|Van phong giao dich: Cum cong nghiep doc 47 (thue van phong, - Phuong Tam Phuoc, Thanh pho Bien Hoa, Dong Nai
+CHI CUC THUE KHU VUC HOA BINH - VINH LOI|1900656251|So 391 - QL1A, ap Thi tran A, Thi tran Hoa Binh, Huyen Hoa Binh, Bac Lieu
+CONG TY TNHH TRINH DUONG VY|3603671733|So 157, to 12, KP 8A, Phuong Long Binh, Thanh pho Bien Hoa, Dong Nai
+CONG TY CO PHAN DAU TU MIEN TAY|6300320844|So 68, Ngo Quyen, Khu vuc 2, Phuong Lai Hieu, Thi Xa Nga Bay, Hau Giang
+CONG TY TNHH PILATES HOUSE HA NOI|0108924913|Tang 30, toa nha Ngoc Khanh Plaza, So 1 Pham Huy Thong, Phuong Ngoc Khanh, Quan Ba Dinh, Ha Noi
+CONG TY TNHH THU VIET NGA|3603671123|So 2A/115, KP3, Phuong Tam Hoa, Thanh pho Bien Hoa, Dong Nai
+CONG TY TNHH THUONG MAI VA DICH VU THACH TU|0801298719|So nha 74 pho Dinh Tien Hoang, Phuong Hai Tan, Thanh pho Hai Duong, Hai Duong
+CONG TY TNHH XD - TM TAM AN|3603671726|So B16, KP 2, Phuong Buu Long, Thanh pho Bien Hoa, Dong Nai
+CONG TY TNHH IN NHANH 66|0315936836|92 Huu Nghi, Khu pho 3, Phuong Binh Tho, Quan Thu Duc, TP Ho Chi Minh
+CONG TY TNHH TRUYEN THONG VA TO CHUC SU KIEN TTS|0315936850|So 165 Nguyen Huu Tien, Phuong Tay Thanh, Quan Tan phu, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI DICH VU KY THUAT AHP|0315935180|733 Nguyen Duy Trinh, Phuong Phu Huu, Quan 9, TP Ho Chi Minh
+CONG TY TNHH TU VAN GIAO DUC BINH AN|4101551522|So 18/18/1 duong Han Mac Tu, Phuong Ghenh Rang, Thanh pho Quy Nhon, Binh Dinh
+CONG TY TNHH CO KHI XAY DUNG NGOC HAN PHAT|3603671620|So 3, To 18, KP 2, Phuong Long Binh Tan, Thanh pho Bien Hoa, Dong Nai
+CONG TY TNHH THUONG MAI DICH VU XUAT NHAP KHAU TRUONG KHANG|3603671701|So 120/46/2/6, duong Hoang Ba Bich, KP 5, Phuong Long Binh, Thanh pho Bien Hoa, Dong Nai
+CONG TY TNHH XUAT NHAP KHAU DUA THU NGAN|1301082110|355, ap 1, Xa Quoi Son, Huyen Chau Thanh, Ben Tre
+CONG TY CO PHAN PHAT TRIEN THE THAO NEXTGEN SPORT|0108924279|Nha so 16, Thon Dong Phu, Xa Duong Lieu, Huyen Hoai Duc, Ha Noi
+CONG TY TNHH TM - DV - XNK TIN DAT|3603671691|So 413/H8, to 39C, KP 11, Phuong Tan Phong, Thanh pho Bien Hoa, Dong Nai
+CONG TY TNHH DAU TU XAY DUNG VA THUONG MAI VN - KOREA|0108925360|So nha 1, ngo 788 duong Kim Giang, Xa Thanh Liet, Huyen Thanh Tri, Ha Noi
+CONG TY TNHH XAY DUNG CUONG PHAN|3603671638|Lau 2, D 23, Duong N2, KP 1, Phuong Buu Long, Thanh pho Bien Hoa, Dong Nai
+CONG TY TNHH NHAN LUC PHUONG DAT|3603671719|So 19, Lo A, KDC An Binh 2, KP 2, Phuong An Binh, Thanh pho Bien Hoa, Dong Nai
+CONG TY TNHH XAY DUNG THUONG MAI DICH VU VA TRANG TRI NOI THAT NGUYEN DINH|0315932976|144 Truong Vinh Ky, Phuong Tan Son Nhi, Quan Tan phu, TP Ho Chi Minh
+CONG TY TNHH SAN XUAT - THUONG MAI - DICH VU KHANH TRANG|0108925402|Thon Yen Phu, Xa Lien Ninh, Huyen Thanh Tri, Ha Noi
+CONG TY CO PHAN GIAI PHAP TRUYEN THONG SANG TAO|0108926004|so 58 Ngo Yet Kieu, Phuong Cua Nam, Quan Hoan Kiem, Ha Noi
+CONG TY TNHH DAU TU VA THUONG MAI BAC BINH HD|0801298885|Thon Giua, Xa Co Dung, Huyen Kim Thanh, Hai Duong
+CONG TY TNHH THUONG MAI DICH VU KY THUAT NHAN THANG|0315936843|326B, Duong TTH21, phuong Tan Thoi Hiep, Quan 12, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI VA DICH VU KHAI THANG|0315935173|320/74 Duong Tan Thoi Hiep 12, Khu Pho 3a, phuong Tan Thoi Hiep, Quan 12, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI DICH VU HOANG KIM CAT (NTNN)|0315937237|90/5 Nguyen Thong, Phuong 09, Quan 3, TP Ho Chi Minh
+CONG TY TNHH TU VAN TRUYEN THONG VA QUANG CAO HMT|1801650805|C26, Duong 27, Khu do thi moi Hung Phu, Phuong Hung Thanh, Quan Cai Rang, Can Tho
+CONG TY TNHH COTTA VIET NAM|2301104542|So 1 Nguyen Van Cu, Thi tran Thua, Huyen Luong Tai, Bac Ninh
+CONG TY TNHH THUONG MAI DICH VU THUAN PHAT TAI|3901287970|To 7, ap An Thoi, Xa An Tinh, Huyen Trang Bang, Tay Ninh
+CONG TY TNHH THUONG MAI DANG QUANG THAI BINH|1001200483|Lo 09-A6, khu TDC (khu A), Phuong Tran Lam, Thanh pho Thai Binh, Thai Binh
+CONG TY TRACH NHIEM HUU HAN DIEN TRO DOT NONG VIET NAM|3901287988|1191 ap Thanh Nam, Xa Thanh Tay, Huyen Tan Bien, Tay Ninh
+CONG TY CO PHAN THUONG MAI DICH VU CTHOME|1801650837|81, Ly Hong Thanh, Phuong Cai Khe, Quan Ninh Kieu, Can Tho
+CONG TY CO PHAN DAU TU XAY DUNG HOANG NAM PHAT|0108926011|So 66, ngo 192, pho Le Trong Tan, Phuong Khuong Mai, Quan Thanh Xuan, Ha Noi
+CONG TY TNHH XAY DUNG THUONG MAI VA DICH VU VAN TAI MINH QUAN|3101074275|To dan pho 2, Phuong Bac Ly, Thanh pho Dong Hoi, Quang Binh
+CONG TY TNHH GARDEN GOLF|2301104479|81 Hoang Hoa Tham, Phuong Vo Cuong, Thanh pho Bac Ninh, Bac Ninh
+CONG TY TNHH THUONG MAI THANH TAM AN|0108926318|So Nha 2/9B/34 Thanh Dam, Phuong Thanh Tri, Quan Hoang Mai, Ha Noi
+CONG TY TNHH THUONG THUC NHA TRANG|4201864279|166 Doan Ket, Phuong Vinh Phuoc, Thanh pho Nha Trang, Khanh Hoa
+CONG TY TNHH TRUNG TAM THIEN DINH DASIRA NARADA PHONG DIEN|1801650869|So 244, ap Truong Khuong A, Xa Truong Long, Huyen Phong Dien, Can Tho
+CONG TY TNHH MTV VAN PHONG|5300772849|Nha ong Phong thon Tan Lap, Xa Tan Thuong, Huyen Van Ban, Lao Cai
+CONG TY TNHH DANG KHOA NGUYEN|3603671525|To 8, ap 6, Xa An Phuoc, Huyen Long Thanh, Dong Nai
+CONG TY TNHH DAU TU VA XAY DUNG THUONG MAI 179|2301104461|36A Le Van Thinh, Phuong Suoi Hoa, Thanh pho Bac Ninh, Bac Ninh
+CONG TY TNHH THIET KE XAY DUNG THUONG MAI QL|4201864222|Thon Phu an Nam 1, Xa Dien An, Huyen Dien Khanh, Khanh Hoa
+CONG TY CO PHAN  VINFAST LEASING|0108926879|So 7, Duong Bang Lang 1, Khu do thi sinh thai Vinhomes River, Phuong Thuong Thanh, Quan Long Bien, Ha Noi
+CONG TY TNHH TM - DV NGUYEN TRUNG|4201864254|Thon 4, Xa Dien Dong, Huyen Dien Khanh, Khanh Hoa
+CONG TY TNHH MOT THANH VIEN THIEN LONG GIANG|5300772856|Lo 08B lien ke 08, duong M4, Phuong Kim Tan, Thanh pho Lao Cai, Lao Cai
+CONG TY CO PHAN DT- TM - DV KHANH HA|4201864215|So 45 Duong Quang Ham, Phuong Phuoc Long, Thanh pho Nha Trang, Khanh Hoa
+CONG TY TNHH THUONG MAI & CONG NGHE VNET|3101074324|So 186, Tran Hung Dao, Phuong Dong Phu, Thanh pho Dong Hoi, Quang Binh
+CONG TY TNHH DAU TU THUONG MAI VA DICH VU XAY DUNG TON SON|1801650851|235B, KV Phu Quoi, Phuong Thuong Thanh, Quan Cai Rang, Can Tho
+CONG TY CO PHAN PHAN PHOI THUC PHAM VIET MY|4201864159|So 31 Phu Duc, Phuong Vinh Hoa, Thanh pho Nha Trang, Khanh Hoa
+CONG TY TNHH THUONG MAI DICH VU TRAN THY THY|1801650844|So 24/1, Duong Nhat Tao, Phuong Le Binh, Quan Cai Rang, Can Tho
+CONG TY TNHH TRUYEN THONG SO LANA|1801650876|So 79B, Duong Xo Viet Nghe Tinh, Phuong An Cu, Quan Ninh Kieu, Can Tho
+CONG TY TNHH THUONG MAI DICH VU XAY DUNG H&T|1801650883|40 Nguyen Viet Hong, Phuong An Phu, Quan Ninh Kieu, Can Tho
+CONG TY CO PHAN THUONG MAI VA DICH VU GIAY LIEN MINH|5300772831|So nha 194, Duong Nguyen Tri Phuong, Phuong Pho Moi, Thanh pho Lao Cai, Lao Cai
+CONG TY TNHH DP TRUNG|1801650812|61, Duong so 5, KDC Thoi Nhut 2, Phuong An Khanh, Quan Ninh Kieu, Can Tho
+CONG TY TNHH TRANG TRAI HOANG PHU|1001200405|So nha 296, khu 6, Thi tran Diem Dien, Huyen Thai Thuy, Thai Binh
+CONG TY TNHH DICH VU VA XAY DUNG GIA NGUYEN|0108926780|So nha 21 C, ngo 622, duong Ha Huy Tap, Thi tran Yen Vien, Huyen Gia Lam, Ha Noi
+CONG TY TNHH NAM KHANH NHU|3603671349|Lo C1, Khu dan cu Xom Ho, ap Hung Nhon, Xa Hung Loc, Huyen Thong Nhat, Dong Nai
+CONG TY TNHH MTV TO CHUC SU KIEN VA LU HANH DU LICH PHUC HANH|5702014838|To 2, khu Doc Do 2, Phuong Phuong Dong, Thanh pho Uong Bi, Quang Ninh
+CONG TY TNHH DAU TU BAT DONG SAN TIEN THU|1001200469|So nha 121, duong Le Loi, Phuong De Tham, Thanh pho Thai Binh, Thai Binh
+CONG TY TNHH KHOANG SAN PHUOC AN|4001190505|Thon My Phuoc, Xa Duy Phuoc, Huyen Duy Xuyen, Quang Nam
+CONG TY TNHH CUNG UNG NHAN LUC VAN VO VIET|4300843632|270 Bich Khe, Phuong Nghia Chanh, Thanh pho Quang Ngai, Quang Ngai
+CONG TY TNHH MOT THANH VIEN THUY GIA BAO|5901128117|52 Nguyen Cong Tru, Phuong Yen Do, Thanh pho Pleiku, Gia Lai
+CONG TY TNHH XAY DUNG VA KIEN THIET QUE HUONG|2902012945|Xom Yen Minh, Xa Yen Son, Huyen Do Luong, Nghe An
+CONG TY TNHH QUANG CAO VA TRANG TRI NOI THAT TRUONG TAM|1001200490|Nha ong ut, thon Vinh Gia, Xa Phu Xuan, Thanh pho Thai Binh, Thai Binh
+CONG TY TNHH DUOC PHAM TU HUNG|4300843657|Lo B4-04 duong so 2, Khu do thi Ngoc Bao Vien, Phuong Chanh Lo, Thanh pho Quang Ngai, Quang Ngai
+CONG TY CO PHAN CA NGUA HAI VUONG|1702175690|So 9, hem 58 duong Bach Dang, khu pho 2, Thi tran Duong Dong, Huyen Phu Quoc, Kien Giang
+CONG TY TNHH HA TANG DU LICH THANH TUYEN CAPITAL|3702815506|Thua dat so 576, To ban do so 18, Duong DT 744, To 7, ap Go, Xa Thanh Tuyen, Huyen Dau Tieng, Binh Duong
+CONG TY TNHH SONG THANH LONG|4001190470|To 1, Thon Tan Tho, Xa Duy Chau, Huyen Duy Xuyen, Quang Nam
+CONG TY TNHH GIAY GISA|0700831708|Thon Van Phai, Xa Bach Thuong, Huyen Duy Tien, Ha Nam
+CONG TY TNHH HUY DUC EVENT|0315936272|75 Tran Hung Dao, Phuong 06, Quan 5, TP Ho Chi Minh
+CONG TY TNHH HAI MAI THAI NGUYEN|4601545799|So nha 26, duong Cach Mang Thang 8, To 5, Phuong Phan Dinh Phung, Thanh pho Thai Nguyen, Thai Nguyen
+CONG TY TNHH SBC HOUSE|0315936498|135/2/1 Duong Tay Lan, Phuong Binh Tri Dong A, Quan Binh Tan, TP Ho Chi Minh
+CONG TY CO PHAN BTI LAND|0315936240|30 Bay Hien, Phuong 11, Quan Tan Binh, TP Ho Chi Minh
+CONG TY TNHH TM - DV - BV VA VE SI DAI HUNG THINH VN|2100650333|96 Vo Nguyen Giap, khom 9, Phuong 7, Thanh pho Tra Vinh, Tra Vinh
+CONG TY TNHH NGOI NHA TAM AN|0315936265|D17 Khu Dan Cu Phuoc Nguyen Hung, Duong Nguyen Huu Tho, Xa Phuoc Kien, Huyen Nha Be, TP Ho Chi Minh
+CONG TY TNHH XUAT NHAP KHAU VA DICH VU DAI THANH|4800914987|Xom Tong Nua, Xa Thi Hoa, Huyen Ha Lang, Tinh Cao Bang
+CONG TY TNHH THUONG MAI DICH VU MINH DUNG PHU THO|2601032391|To 59, khu Hop Phuong, Phuong Minh Phuong, Thanh pho Viet Tri, Tinh Phu Tho
+CONG TY TNHH XAY DUNG NGOC HAI DAK LAK|6001669355|To dan pho 2, Thi Tran Krong Kmar, Huyen Krong Bong, Tinh Dak Lak
+CONG TY TNHH MTV CHAT LINH|3002142076|Tai nha ong Nguyen Hoang Chat, xom Ha Chua, Xa Son Tay, Huyen Huong Son, Tinh Ha Tinh
+CONG TY TNHH DANG TUAN|6001669348|So 121/4 No Trang Guh, Phuong Tan Tien, TP.Buon Ma Thuot, Tinh Dak Lak
+CONG TY TNHH THUONG MAI THUAN THIEN HOANG|3801209457|To 8, Thon Phu Thinh, Xa Phu Rieng, Huyen Phu Rieng, Tinh Binh Phuoc
+CONG TY TNHH CONG TY TNHH DO NOI THAT JY|3702815369|Nha xuong A-18A20-B, Lo A-18A20-CN, Khu cong nghiep Bau Bang, Xa Lai Hung, Huyen Bau Bang, Tinh Binh Duong
+CONG TY TNHH DIEN TU HUAJIE VIET NAM|3702815601|Nha xuong C_1B_D4B, lo C_1B_CN, Khu Cong nghiep My Phuoc 3, Phuong Thoi Hoa, Thi xa Ben Cat, Tinh Binh Duong
+CONG TY TNHH XAY DUNG YEN NGUYET|6001669362|So 215/101/22 Vo Van Kiet, Phuong Khanh Xuan, TP.Buon Ma Thuot, Tinh Dak Lak
+CONG TY TNHH DUC LE PHAT|0315933183|So 136A Duong so 11, Phuong 5, Quan Go Vap, TP Ho Chi Minh
+CONG TY TNHH MTV HAI AN KHANG|1201613470|So 106, duong Nguyen An Ninh, Phuong 2, Thanh pho My Tho, Tinh Tien Giang
+CONG TY TNHH MTV THUONG MAI DICH VU DAU TU PHUOC HUY|3603671109|To 3, ap 4, Xa Xuan Tay, Huyen Cam My, Tinh Dong Nai
+CONG TY TNHH THUONG MAI VA PHAT TRIEN DU LICH HANH TRINH DA SAC|4001190495|140 Nguyen Truong To, Phuong Minh An, Thanh pho Hoi An, Tinh Quang Nam
+CONG TY TNHH MTV SAN XUAT THUONG MAI CAO TAN|3603670514|So 33, ap 2, Xa Song Ray, Huyen Cam My, Tinh Dong Nai
+CONG TY TNHH KINH DOANH VA PHAN PHOI HANG TIEU DUNG HOANG LONG|3702815496|41 - to 5 - ap vinh tien, Xa Vinh Hoa, Huyen Phu Giao, Tinh Binh Duong
+CONG TY TNHH XAY DUNG THUONG MAI DICH VU PHAM GIA|3702815545|H6.16 Khu pho Phu Hoi, Phuong Vinh Phu, Thi xa Thuan An, Tinh Binh Duong
+CONG TY TNHH VAN TAI XUAT NHAP KHAU HA TRANG|2802799486|Thon Phac Le, Xa Vinh Quang, Huyen Vinh Loc, Tinh Thanh Hoa
+CONG TY TNHH DAU TU XAY DUNG THUONG MAI DANG KHOA PHAT|3702815584|D3.65 Khu pho Phu Hoi, Phuong Vinh Phu, Thi xa Thuan An, Tinh Binh Duong
+CONG TY TNHH XAY LAP TONG HOP QUAN THU|3702815577|264/12, To 11, Khu Pho 3, Phuong Tan Dinh, Thi xa Ben Cat, Tinh Binh Duong
+CONG TY TNHH BAC BIG|3702815471|Thua dat so 1918, To ban do so 10 TDH.3, Khu Pho Dong Tan, Phuong Di An, Thi Xa Di An, Tinh Binh Duong
+CONG TY TNHH DAU TU BAT DONG SAN TAN LOI PHAT|6001669323|Thon 2, Xa Cu Ebur, TP.Buon Ma Thuot, Tinh Dak Lak
+CONG TY TNHH LAM HOA PHAT|3702815489|So 285E/2, Khu Pho 1B, Phuong An Phu, Thi xa Thuan An, Tinh Binh Duong
+CONG TY CO PHAN DAU TU XUAT NHAP KHAU DUC HUY|0108925113|BT1, Lo 2, Khu do thi moi Dinh Cong, Phuong Dinh Cong, Quan Hoang Mai, Ha Noi
+CONG TY CO PHAN TM DV TAM DUY LINH|1101929752|398 ap 4, Xa Binh Tam, Thanh pho Tan An, Long An
+CONG TY CO PHAN DAU TU VA KINH DOANH BAT DONG SAN DAI PHAT|0108924487|So 23C Ngo 416 Lac Long Quan, Phuong Nhat Tan, Quan Tay Ho, Ha Noi
+NTNN- CN CONG TY CP DAU TU VA KINH DOANH NHA TAN VIET AN TAI PHU YEN|4401069479|Lo C1 duong Doc Lap, Phuong 9, TP Tuy Hoa, Phu Yen
+CONG TY TNHH TRIGO VIET NAM|0108923490|Tang 6, toa nha Viet a, so 9 pho Duy Tan, Phuong Dich Vong Hau, Quan Cau Giay, Ha Noi
+CONG TY TNHH THUONG MAI DICH VU TUAN TOAN|0700831698|To dan pho Tha, Phuong Liem Chinh, Thanh pho Phu Ly, Ha Nam
+NTNN- CN CONG TY CP DAU TU VA KINH DOANH NHA VIET BEACH TAI PHU YEN|4401069461|Lo C1 duong Doc Lap, Phuong 9, TP Tuy Hoa, Phu Yen
+TRUNG TAM VAN HOA- THE THAO VA TRUYEN THANH TP. TUY HOA|4401069454|84-86 Phan Dinh Phung, Phuong 1, TP Tuy Hoa, Phu Yen
+CONG TY TNHH LOC PHUOC NINH|4500635069|So 20/16 Thong Nhat, Phuong Dai Son, TP. Phan Rang-Thap Cham, Ninh Thuan
+CONG TY TNHH MOT THANH VIEN THIET BI CONG NGHE NGAN TIEN|3901287949|ap Hiep Dinh, Xa Hiep Tan, Huyen Hoa Thanh, Tay Ninh
+CONG TY TNHH DICH VU KY THUAT VA THUONG MAI BAO KHANG|0108924423|Thon Bai Thuong, Xa Thanh Xuan, Huyen Soc Son, Ha Noi
+CONG TY CO PHAN KY NGUYEN SO|0108926692|So 102, pho Thai Thinh, Phuong Trung Liet, Quan Dong da, Ha Noi
+CONG TY TNHH GND DAK NONG|6400412400|220 Tran Hung Dao, Thi tran Ea T-Ling, Huyen Cu Jut, Dak Nong
+CONG TY TNHH BIO ACS|1402131741|So 04, to 1, ap Tinh Chau, Xa Tinh Thoi, Thanh pho Cao Lanh, Dong Thap
+CONG TY TNHH SAN XUAT GIONG THUY SAN CP.BEN BEN|4500635083|Thon My Tuong 2, Xa Nhon Hai, Huyen Ninh Hai, Ninh Thuan
+CONG TY TNHH THUONG MAI & DICH VU DU LICH PHU BAO NGOC|4001190488|96/9 Hung Vuong, Phuong Cam Pho, Thanh pho Hoi An, Tinh Quang Nam
+CONG TY TNHH SUPERSHIP HA GIANG|5100472728|So nha 102, duong Ly Tu Trong, to 11, Phuong Minh Khai, Thanh Pho Ha Giang, Tinh Ha Giang
+CONG TY CO PHAN THUONG MAI XUAT NHAP KHAU TAN HUNG PHAT HT|5100472742|Lo 1, khu kinh te cua khau quoc te Thanh Thuy, Xa Thanh Thuy, Huyen Vi Xuyen, Tinh Ha Giang
+CONG TY TNHH MOT THANH VIEN BAO CHUNG|5100472735|Thon Cau Thuy, Thi Tran Viet Quang, Huyen Bac Quang, Tinh Ha Giang
+CONG TY TNHH TM & XD LOC MAO|5801415943|Thon R'Hang Tru, Xa Phuc Tho, Huyen Lam Ha, Lam Dong
+CONG TY TNHH MOT THANH VIEN TUYET VAN AYUN PA|5901128124|52B Hoang Van Thu, Phuong Doan Ket, Thi xa Ayun Pa, Tinh Gia Lai
+CONG TY TNHH DUOC LIEU THANH MAX|5702014732|Thon 9, Xa Nguyen Hue, Thi Xa Dong Trieu, Quang Ninh
+CONG TY TNHH NGOC PHONG TRANG|5702014718|To 1, Khu 8, - Phuong Viet Hung, Thanh pho Ha Long, Quang Ninh
+CONG TY TNHH THUONG MAI VA DICH VU PHU SON CAO BANG|4800914962|So nha 01, Ngo 080, to 20, Phuong Hop Giang, Thanh pho Cao Bang, Tinh Cao Bang
+CONG TY TNHH DAU TU THUONG MAI VA DICH VU TAM DA|5000869695|Thon Phu Xuan, Xa Tam Da, Huyen Son Duong, Tinh Tuyen Quang
+BAN QUAN LY CHO NONG TRANG|2601032384|Khu 6A, Phuong Nong Trang, Thanh pho Viet Tri, Phu Tho
+CONG TY TNHH THOI TRANG HOANH PHAT|0315924340|536/27/21 au Co, Phuong 10, Quan Tan Binh, TP Ho Chi Minh
+CONG TY TNHH SURCAD VIET NAM|0108925956|So 36A, ngo 1, duong Dai Mo, Phuong Dai Mo, Quan Nam Tu Liem, Ha Noi
+CONG TY TNHH DICH VU VA KY THUAT VCC|0402003924|K82/21/04 Nguyen Chanh, Phuong Hoa Minh, Quan Lien Chieu, Da Nang
+CHI CUC THUE KHU VUC PHUOC LONG - HONG DAN|1900656237|ap Hanh Chinh, Thi tran Phuoc Long, Huyen Phuoc Long, Bac Lieu
+CONG TY CO PHAN CO KHI SAN XUAT - THUONG MAI BAO HO LAO DONG LIEN CO|0315931891|So 116, Duong So 1, Phuong Tan Kieng, Quan 7, TP Ho Chi Minh
+CONG TY TNHH CONG TY TNHH DANG KHOA GREEN|3200699976|Duong Dien Bien Phu, Phuong Dong Le, Thanh pho Dong Ha, Quang Tri
+CONG TY TNHH LONG THU KUNJEK VIET NAM|0315930104|Lo J16-19 duong 5C, KCN Le Minh Xuan, Xa Le Minh Xuan, Huyen Binh Chanh, TP Ho Chi Minh
+CONG TY TNHH 5 HONG|0315932133|111A Hiep Binh, Phuong Hiep Binh Chanh, Quan Thu Duc, TP Ho Chi Minh
+CONG TY TNHH BUFF SOLUTION|0315927140|69/9 duong 17, Phuong Hiep Binh Chanh, Quan Thu Duc, TP Ho Chi Minh
+CONG TY TNHH TMDV VAN TAI NHU PHAT LOGISTICS|3702815626|Thua dat so 623, To ban do so 65, Khu pho 08, Phuong Phu Hoa, Thanh pho Thu Dau Mot, Binh Duong
+CONG TY TNHH XAY DUNG VA PHAT TRIEN NANG LUONG HLT|0315934677|456/24 Duong Thi Muoi, Khu pho 3, phuong Tan Thoi Hiep, Quan 12, TP Ho Chi Minh
+CONG TY TNHH CARROT SPORT|0315924728|26/27 Nguyen Minh Hoang, Phuong 12, Quan Tan Binh, TP Ho Chi Minh
+CONG TY TNHH BAO KHANH NGUYEN|0315932285|So 76 Ly Chinh Thang, Phuong 08, Quan 3, TP Ho Chi Minh
+CONG TY TNHH SAN XUAT THUONG MAI DICH VU DET MAY PHU DUY|0315930009|264 Hong Lac, Phuong 11, Quan Tan Binh, TP Ho Chi Minh
+CONG TY TNHH DIEU PHOI SAN XUAT VIET NHAT|0108926572|So 10 khu A to 56, Phuong Mai Dich, Quan Cau Giay, Ha Noi
+CONG TY TNHH THUONG MAI VA CHE BIEN THUC PHAM HUY HOANG|0108925642|Cum Cong nghiep Ngoc Son, Thi tran Chuc Son, Huyen Chuong My, Ha Noi
+CONG TY TNHH INFOTECHVIET|0315934518|So 9/1 Duong 7, Khu Pho 5, Phuong Linh Chieu, Quan Thu Duc, TP Ho Chi Minh
+CONG TY CO PHAN DIEN GIO LICOGI 16 QUANG TRI 1|3200699969|Duong Nguyen Trung Truc, Khu pho 7, Phuong 3, Thanh pho Dong Ha, Quang Tri
+CONG TY TNHH DAU TU VA THUONG MAI TONG HOP VIET DUC|0315931683|So 23A Duong Binh My, To 3, ap 8, Xa Binh My, Huyen Cu Chi, TP Ho Chi Minh
+CONG TY TNHH THIET BI VA THUONG MAI DOAN KET|3702814421|So 80, Duong D2, Khu dan cu Phu Hoa 1, Phuong Phu Hoa, Thanh pho Thu Dau Mot, Binh Duong
+CONG TY TNHH INVESTOR'S TRUST|0315926556|85 Hoang Sa, Phuong Da Kao, Quan 1, TP Ho Chi Minh
+CONG TY CO PHAN DONG TRUNG HA THAO T&T VIET NAM|0315932422|384/66 Ly Thai To, Phuong 10, Quan 10, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI DICH VU MUT XOP ATH|3702814319|Thua dat so 1139, to ban do so 15, duong DT748, Xa Phu An, Thi Xa Ben Cat, Binh Duong
+CONG TY TNHH DICH VU TRUNG HOA|0402003804|55-57 Loseby, Phuong Phuoc My, Quan Son Tra, Da Nang
+CONG TY TNHH SAN XUAT THUONG MAI DICH VU TOAN NGOC|3603671758|So 4, duong D4, KP 7, Phuong Thong Nhat, Thanh pho Bien Hoa, Dong Nai
+CONG TY TNHH KY THUAT CONG NGHE LDP|0402003096|116 Le Van Hien, Phuong Khue My, Quan Ngu Hanh Son, Da Nang
+CONG TY TNHH PHUC QUOC NGOC|1702175154|Thua dat 2025, to ban do so 54, Duong Tran Hung Dao, ap Duong Bao, Xa Duong To, Huyen Phu Quoc, Tinh Kien Giang
+CONG TY TNHH XAY DUNG HOANG ANH BP|3801209383|So nha 33, Duong 26 thang 12, khu pho Phu Xuan, Phuong Tan Phu, Thanh pho Dong Xoai, Tinh Binh Phuoc
+CONG TY TNHH KINH DOANH THUONG MAI VA DICH VU VINFAST|0108926276|So 7, Duong Bang Lang 1, Khu do thi sinh thai Vinhomes Riverside, Phuong Viet Hung, Quan Long Bien, Thanh pho Ha Noi
+CONG TY TNHH SAN XUAT THUONG MAI DICH VU LAM DAT|0315931394|48B Ly Chieu Hoang, Phuong 10, Quan 6, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI KY NGHE MINH PHAT|0315926429|349/21B, duong Ben Phu Lam, Phuong 09, Quan 6, TP Ho Chi Minh
+CONG TY TNHH CONG NGHE ATPWEB|0315929719|75, duong so 8, Khu Dan Cu Cityland Garden Hills, Phuong 5, Quan Go Vap, TP Ho Chi Minh
+CONG TY TNHH FMET|0315929740|14D1 duong Thao Dien, Phuong Thao Dien, Quan 2, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI DICH VU SAN XUAT ANWELL|3200699937|84 Hoang Dieu, Phuong Dong Giang, Thanh pho Dong Ha, Quang Tri
+CONG TY TNHH SAMYOUNG VIET NAM|2500635996|Khu hanh chinh 16, Phuong Lien Bao, Thanh pho Vinh Yen, Vinh Phuc
+CONG TY CO PHAN BIG GLOBAL|0108925339|Lo C11, Khu dau gia Nguyen Tuan, Phuong Nhan Chinh, Quan Thanh Xuan, Ha Noi
+CONG TY TNHH VINA MAMAEDEN DOOR (NOP THAY NHA THAU NUOC NGOAI)|1101929833|A3-4 Duong 1, Khu xuong Kizuna 2, Lo B4-3-7-8, KCN Tan Kim, Xa Tan Kim, Huyen Can Giuoc, Long An
+THAU THI CONG TR TRI KHOI K.SAN C.CU CANH QUAN THUOC DU AN JW MARRIOTT DANANG RESORT TAI TP DA NANG|0402004251|Lo 41, 43 duong Nguyen Duc Thuan, Phuong Khue My, Quan Ngu Hanh Son, Da Nang
+CONG TY TNHH SAN XUAT THUONG MAI KQUANG|0315929927|So 43 duong so 3, khu pho 2, Phuong Phu My, Quan 7, Thanh pho Ho Chi Minh
+CONG TY TNHH DICH VU THUONG MAI MINH TRUONG|3002142044|Nha ong Nguyen Kim Han, Thon Tho Tuong, Xa Lien Minh, Huyen Duc Tho, Tinh Ha Tinh
+CONG TY TNHH MOT THANH VIEN THUONG DINH|3702815344|185/1A, Khu Pho Thanh Hoa B, Phuong An Thanh, Thi xa Thuan An, Tinh Binh Duong
+CONG TY TNHH DAU TU XAY DUNG PHU HUNG PHAT|1201613488|So 200B Doan Thi Nghiep, Phuong 5, Thanh pho My Tho, Tinh Tien Giang
+CONG TY TNHH XAY DUNG BAO THU|3603671606|So 12, Ap Bao Dinh, Xa Xuan Dinh, Huyen Xuan Loc, Tinh Dong Nai
+CONG TY TNHH TRUYEN THONG DA PHUONG TIEN 4K|2400872418|Xom Tay, Xa Tien Luc, Huyen Lang Giang, Tinh Bac Giang
+CONG TY TNHH CUNG UNG LAO DONG TUE TRAN|2400872496|Km 8, Xa Tien Phong, Huyen Yen Dung, Tinh Bac Giang
+CONG TY CO PHAN AD VINA|2400872506|Xom Chua, Xa Tang Tien, Huyen Viet Yen, Tinh Bac Giang
+CONG TY TNHH DAU TU XAY DUNG THUONG MAI NGOC ANH|0108912410|Ngo 2, Thon Yen Vinh, Xa Kim Chung, Huyen Hoai Duc, Ha Noi
+CONG TY TNHH THUONG MAI VA XUAT NHAP KHAU THANH LONG CNMN|0315932373|28 duong 5B, khu pho 6, Phuong Binh Hung Hoa A, Quan Binh Tan, TP Ho Chi Minh
+CONG TY TNHH 3D HONY|2301104260|Thon Mao Trung, Xa Phuong Mao, Huyen Que Vo, Bac Ninh
+CONG TY TNHH DICH VU TOAN HOANG GIA VIET NAM|2301104373|Thon Giang Lieu, Xa Phuong Lieu, Huyen Que Vo, Bac Ninh
+CONG TY CO PHAN BAT DONG SAN MINH TRAN QUANG NGAI|4300843600|So 163 Le Trung Dinh, Phuong Tran Hung Dao, Thanh pho Quang Ngai, Quang Ngai
+CONG TY CO PHAN XAY DUNG THUONG MAI XUAT NHAP KHAU HPK|0315931588|90/2C, Tran Van on, Phuong Tan Son Nhi, Quan Tan phu, TP Ho Chi Minh
+CONG TY TNHH MOT THANH VIEN DAU TU DICH VU VAN TAI LOC PHAT|4300843590|180 Te Hanh, Phuong Truong Quang Trong, Thanh pho Quang Ngai, Quang Ngai
+CONG TY TNHH GIAI PHAP PLAUMAI MIEN TRUNG|4300843618|88 Truong Dinh, Phuong Tran Phu, Thanh pho Quang Ngai, Quang Ngai
+CONG TY TRACH NHIEM HUU HAN HAI THANH VIEN THANH PHUONG.HB|5400511618|So 53, to 4, Phuong Tan Thinh, Thanh pho Hoa Binh, Hoa Binh
+CONG TY TNHH DAO PHUC SEN BOONG HAY|0108924254|So nha 2 ngach 1 ngo 190 Duong Dai Mo, Phuong Dai Mo, Quan Nam Tu Liem, Ha Noi
+CONG TY TNHH LIEN HIEP TRUYEN THONG QUOC TE VIET NAM|0108924293|Tang 3, Toa nha Dophin Plaza, So 28 Tran Binh, Phuong My Dinh 2, Quan Nam Tu Liem, Ha Noi
+CONG TY TNHH MOT THANH VIEN XAY DUNG NGUYEN LAI|4300843625|Thon Thach An, Xa Binh My, Huyen Binh Son, Quang Ngai
+CONG TY CO PHAN XUAT NHAP KHAU KTC VIET NAM|0108926283|so 170 duong De La Thanh, Phuong o Cho Dua, Quan Dong da, Ha Noi
+CONG TY TNHH XA HOI LIEN MINH CA PHE PHU NU QUOC TE VIET NAM|0108924286|Tang 3, Toa nha Detech, so 8 duong Ton That Thuyet, Phuong My Dinh 2, Quan Nam Tu Liem, Ha Noi
+CONG TY CO PHAN ANYTHING|2301104341|Thon Ba Khe, Xa Phu Hoa, Huyen Luong Tai, Bac Ninh
+CONG TY TNHH MY PHAM A&M VIET NAM|0315933962|495 Ma Lo, Phuong Binh Hung Hoa, Quan Binh Tan, TP Ho Chi Minh
+CONG TY TNHH DAU TU THUONG MAI DICH VU XAY DUNG NET VIET|0315933874|14A Le Lang, Phuong Phu Tho Hoa, Quan Tan phu, TP Ho Chi Minh
+CONG TY TNHH VAN TAI DUONG VUI|0315933867|B22/30 Bach Dang, Phuong 2, Quan Tan Binh, TP Ho Chi Minh
+CONG TY TNHH FARMS FINANCE|0315933994|581 Nguyen Xien, Phuong Long Thanh My, Quan 9, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI DICH VU DONG VUONG|0315933592|So 23 duong 24, Phuong Binh Tri Dong B, Quan Binh Tan, TP Ho Chi Minh
+CONG TY TNHH SMI VN|0315933634|28/2B Phan Huy on, Phuong 19, Quan Binh Thanh, TP Ho Chi Minh
+CONG TY TNHH GTI SOLUTIONS|0315933338|201/60/17 Nguyen Xi, Phuong 26, Quan Binh Thanh, TP Ho Chi Minh
+CONG TY TNHH MOT THANH VIEN THUONG MAI XUAT NHAP KHAU S.I.G|0315929187|480/11 Xo Viet Nghe Tinh, Phuong 25, Quan Binh Thanh, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI DICH VU TVC VIET NAM|0315928553|94 Cau Xeo, Phuong Tan Quy, Quan Tan phu, TP Ho Chi Minh
+CONG TY CP GIAO DICH BAT DONG SAN A CHAU VIET NAM|3603671148|Quoc lo 51, To 3, ap 2, Xa Long An, Huyen Long Thanh, Dong Nai
+CONG TY CO PHAN LIEN DOANH VNPRO|0108921207|So 63 duong Tang Thiet Giap, Phuong Co Nhue 2, Quan Bac Tu Liem, Ha Noi
+CONG TY TNHH NAM VIET PHONG|3101074349|So 37 Duong Van An, Phuong Dong My, Thanh pho Dong Hoi, Tinh Quang Binh
+CONG TY TNHH NANG LUONG MAT TROI HON LA|3101074356|Thon Tu Loan, Xa Quang Hung, Huyen Quang Trach, Tinh Quang Binh
+CONG TY TNHH NGUYEN VIET PHAT|4401069408|Thon Loc Dong, Xa Hoa Thanh, Huyen Dong Hoa, Tinh Phu Yen
+CONG TY TNHH PHAN HUYNH DUY|1101929897|Thua dat so 30, to ban do so 22, ap Binh Tien 2, Xa Duc Hoa Ha, Huyen Duc Hoa, Long An
+CONG TY TNHH PLASTIC HOANG KIM PHAT|3702815288|thua dat so 987 to ban do so 19 ap tan hoa, Xa Tan Vinh Hiep, Thi xa Tan Uyen, Binh Duong
+CONG TY TNHH THEMIS HOLDINGS|0315927542|04 Nguyen Thi Minh Khai, Phuong Da Kao, Quan 1, TP Ho Chi Minh
+CONG TY CO PHAN NIK INVEST|3702815714|So 28, duong so 5, Khu tai dinh cu Phu loi, to 23, Khu pho 3, Phuong Phu Loi, Thanh pho Thu Dau Mot, Binh Duong
+CONG TY TNHH DIA OC PHU LOC PHAT|3702815672|So 235, Duong Hoang Hoa Tham, Khu 7, Phuong Hiep Thanh, Thanh pho Thu Dau Mot, Binh Duong
+CONG TY TNHH MALA DAKINI|0315931242|86/45A Thich Quang Duc, Phuong 05, Quan Phu Nhuan, TP Ho Chi Minh
+CONG TY TNHH NGUYEN LANG|0315931228|F7/31/1 Duong Rach Cau Suoi, ap 6, Xa Vinh Loc B, Huyen Binh Chanh, TP Ho Chi Minh
+CONG TY TNHH XAY DUNG NDCONS|0315930993|75/10/7A Duong 48, Phuong Hiep Binh Chanh, Quan Thu Duc, TP Ho Chi Minh
+HOP TAC XA KHAI THAC, NUOI TRONG THUY HAI SAN VA KINH DOANH DICH VU LONG HAI|0601184263|Xom 22, Xa Giao Long, Huyen Giao Thuy, Nam Dinh
+CONG TY TNHH SAN XUAT KINH DOANH HAI LAM|0601184288|Thon Bac duong 12, Xa Yen Xa, Huyen y Yen, Nam Dinh
+CONG TY TNHH VINA SEKI KANKO HOTEL|0315936000|Phong 1508, Tang 15, Vincom Center, So 72, Duong Le Thanh To, Phuong Ben Nghe, Quan 1, TP Ho Chi Minh
+CONG TY CO PHAN THUONG MAI DICH VU VAN TAI TAM AN LOGISTICS|0315924083|90 Vo Tru, Phuong 9, Quan 8, TP Ho Chi Minh
+CONG TY TNHH DU LICH QUOC TE WIN WORLD TRAVEL|0108901257|So 116A2 Khu tap the Thong tan xa Viet Nam, pho Bui Ngoc Duo, Phuong Bach Mai, Quan Hai Ba Trung, Ha Noi
+CONG TY TNHH DEEPCO|2301104292|So nha 64, Duong Dau Ma, Phuong Thi Cau, Thanh pho Bac Ninh, Bac Ninh
+CONG TY CO PHAN PHAN VAT LIEU VA XAY DUNG SBS|2301104302|So nha 583, Khu 2, Phuong Dap Cau, Thanh pho Bac Ninh, Bac Ninh
+HOP TAC XA CHO DINH|3002142069|thon Tan Thuong, Xa Tan Loc, Huyen Loc Ha, Ha Tinh
+CONG TY TNHH THUAN THANH SJC GROUP|1702174471|So 59 duong Ho Thi Nghiem, Thi tran An Thoi, Huyen Phu Quoc, Kien Giang
+CONG TY TNHH TM&DV CONG NGHE GIA PHAT|0108924416|So 5, Ngo 344/83, To 19, Ngoc Thuy, Phuong Ngoc Thuy, Quan Long Bien, Ha Noi
+CONG TY TNHH THUONG MAI THIET KE VA SAN XUAT NOI THAT TNL|0108924102|Thon Nai Chau, Xa Chu Phan, Huyen Me Linh, Ha Noi
+CONG TY TNHH XAY DUNG VA DICH VU XE NANG QUOC ANH|0108924127|So 17/84/987 Ngo Gia Tu, Phuong Thuong Thanh, Quan Long Bien, Ha Noi
+CONG TY TNHH KIEN TRUC VA XAY DUNG NHAT TIN - LIFE HOUSE|0108924159|So 2, Ngo 80 Le Trong Tan, Phuong Khuong Mai, Quan Thanh Xuan, Ha Noi
+CONG TY TNHH CUNG CAP THONG TIN QUOC TIN|0108924134|So 1 duong Hoang Dao Thuy, Phuong Nhan Chinh, Quan Thanh Xuan, Ha Noi
+CONG TY TNHH XAY LAP VA THUONG MAI VU GIA PHAT|0108924198|So 7 ngo 110/26 Pho Nguyen Chinh, Phuong Thinh Liet, Quan Hoang Mai, Ha Noi
+CONG TY CO PHAN THUONG MAI VA DICH VU QTL|0108926237|L13.02 khu do thi Duong Noi, Phuong Duong Noi, Quan Ha Dong, Ha Noi
+CONG TY TNHH MOT THANH VIEN DA CHUC NANG DANG KHOA|3702814686|50 Doan Thi Lien, to 27, khu pho 4, Phuong Phu Loi, Thanh pho Thu Dau Mot, Binh Duong
+CONG TY TNHH MOT THANH VIEN XAY DUNG VA THUONG MAI DICH VU DUY DANG|0315928546|350/61/1 Duong Le Duc Tho, Phuong 6, Quan Go Vap, TP Ho Chi Minh
+CONG TY TNHH DV BV THUAT THUY|1101929777|So 112, Duong so 25a, ap Binh Tien 1, Xa Duc Hoa Ha, Huyen Duc Hoa, Long An
+CONG TY TNHH THUONG MAI DICH VU XUAT NHAP KHAU NAM HUNG|4401069422|Thon Xuan Thanh, Xa An Xuan, Huyen Tuy An, Phu Yen
+CONG TY TNHH QUY NHON FOOD|4101551508|so 164 Xuan Dieu, Phuong Tran Phu, Thanh pho Quy Nhon, Binh Dinh
+CONG TY TNHH MOT THANH VIEN DICH VU XAY DUNG TRUONG KHANG|1602109334|Khom An Hoa B, Thi tran Ba Chuc, Huyen Tri Ton, An Giang
+CONG TY TNHH THE PLATE|0315936057|So 19, Tran Ngoc Dien, Phuong Thao Dien, Quan 2, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI DICH VU ALL MY GOT|0315932077|126-128 Duong So 19, Khu Pho 9, Phuong Binh Tri Dong B, Quan Binh Tan, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI QUOC TE VIET NAM LA SICILIA|0315935631|Tang 10, Toa nha Miss ao Dai, so 21, Duong Nguyen Trung Ngan, Phuong Ben Nghe, Quan 1, TP Ho Chi Minh
+CONG TY TNHH THUONG MAI GIA CONG SAN XUAT HONG YANG PRINT|1101929801|Thua dat so 41, to ban do so 15, ap Binh Tien 2, Xa Duc Hoa Ha, Huyen Duc Hoa, Long An
+CONG TY CO PHAN LUMEN FNB|0108922962|Tang 9, Toa nha Gelex Tower, so 52 Pho Le Dai Hanh, Phuong Le Dai Hanh, Quan Hai Ba Trung, Ha Noi
+CONG TY TNHH MOT THANH VIEN VAT LIEU XAY DUNG THAI TRUNG|1602109341|Khom Thanh Luong, Thi tran Ba Chuc, Huyen Tri Ton, An Giang
+CONG TY TNHH BHL HA NOI|0108922673|So nha 08 To dan pho 01, duong Ngoc Truc, Phuong Dai Mo, Quan Nam Tu Liem, Ha Noi
+CONG TY TNHH CO KHI CAO SU NAM PHAT|3603671099|So 38/17 ( so cu: 21B/10), Kp 6, Phuong Tam Hiep, Thanh pho Bien Hoa, Dong Nai
+CONG TY TNHH MTV THUONG MAI DICH VU LONG THINH PHU|1602109359|So 88/2 Bui Van Danh, Phuong My Xuyen, Thanh pho Long Xuyen, An Giang
+CONG TY TNHH PHAT TRIEN THUONG MAI VUONG LONG|2802798394|So 8/138 Duong Nguyen Tinh, Phuong Dong Huong, Thanh pho Thanh Hoa, Thanh Hoa
+CONG TY TNHH KIEN TRUC VA NOI THAT SOUTH HOME|0201985244|thon 6, Xa Kien Bai, Huyen Thuy Nguyen, Hai Phong
+CONG TY TNHH VAT TU DU LICH DINH PHONG (VIET NAM)|3702812872|thua 726, to ban do 28, Khu pho Tan Binh, Phuong Tan Hiep, Thi xa Tan Uyen, Binh Duong
+CONG TY TNHH BINH AN HL|5702014806|To 19D, Khu 3, Phuong Ha Khanh, Thanh pho Ha Long, Quang Ninh
+CONG TY TNHH MOT THANH VIEN DICH VU VA THUONG MAI DIEP THANH KY|5702014789|Thon Voong Tre, Xa Dai Xuyen, Huyen Van Don, Quang Ninh
+CONG TY TNHH THUONG MAI VA DICH VU NHUAN KHANG|5702014796|To 8, khu 1, Phuong Gieng Day, Thanh pho Ha Long, Quang Ninh
+CONG TY TNHH SAN XUAT VA THUONG MAI SAVINA|0315935504|843/8 Nguyen Kiem, Phuong 3, Quan Go Vap, TP Ho Chi Minh
